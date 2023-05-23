@@ -1,0 +1,1559 @@
+Mois	Qualité	Territoire	Production totale	Production nucléaire	Production thermique totale	Production thermique charbon	Production thermique fioul	Production thermique gaz	Production hydraulique	Production éolien	Production solaire	Production bioénergies	Consommation totale	Solde exportateur	Echanges export	Echanges import	Echanges avec le Royaume-Uni	Echanges avec l'Espagne	Echanges avec l'Italie	Echanges avec la Suisse	Echanges avec l'Allemagne et la Belgique	Pompage	Stockage batterie	Déstockage batterie	Eolien terrestre	Eolien offshore	
+2010-01	Données définitives	France	56542	40313	8801	2928	1690	4184	6307	688	10	423	56342	-489	4295	4784	-652	-358	1297	1613									
+2010-02	Données définitives	France	50406	36316	6822	1893	1175	3754	5887	980	16	386	48698	1008	4709	3700	-497	-333	1628	1752									
+2010-03	Données définitives	France	51071	35984	7250	1994	1275	3981	6204	1175	31	428	48294	2044	5506	3462	-365	-360	1784	2022									
+2010-04	Données définitives	France	41693	31294	3568	1489	612	1467	5684	731	45	370	38637	2484	5196	2711	67	-337	1522	1900									
+2010-05	Données définitives	France	39847	29372	2843	1097	504	1242	6428	743	54	408	37284	2075	5221	3145	486	-147	1229	1287									
+2010-06	Données définitives	France	40217	29575	2366	681	463	1223	7263	581	55	378	34567	5187	6971	1783	979	11	1465	1578									
+2010-07	Données définitives	France	41064	31744	2953	1056	511	1386	5410	488	69	400	36031	4489	6811	2322	1013	32	1632	1412									
+2010-08	Données définitives	France	39499	32391	1580	249	424	907	4348	684	74	421	33069	5796	6902	1105	1293	377	828	2021									
+2010-09	Données définitives	France	39218	31657	2965	1226	502	1236	3594	569	74	359	35104	3511	5642	2131	473	70	1329	1595									
+2010-10	Données définitives	France	42116	31885	4713	1831	896	1986	4023	1075	58	361	40918	450	4723	4272	-353	-156	1274	1323									
+2010-11	Données définitives	France	49444	35455	7024	1945	976	4103	5466	1010	32	456	46532	2212	5367	3155	195	-29	1400	1730									
+2010-12	Données définitives	France	58966	41889	8598	2726	1416	4455	6985	1003	30	462	57600	685	5213	4528	387	-395	747	1268									
+2011-01	Données définitives	France	58226	43853	6599	1271	947	4381	5981	1268	47	477	53873	3583	6504	2921	519	-227	1364	1984									
+2011-02	Données définitives	France	50392	38328	6553	1559	858	4136	4112	900	66	433	45937	3795	5928	2132	270	-192	1630	1960									
+2011-03	Données définitives	France	50698	37688	6807	1502	858	4447	4431	1135	126	510	45543	4522	6767	2245	382	-399	1541	2226									
+2011-04	Données définitives	France	41028	32850	2888	808	465	1615	3998	688	189	414	35442	4984	6283	1298	455	-171	1456	2160									
+2011-05	Données définitives	France	41071	33070	3228	1180	421	1626	3373	749	224	426	35107	5257	6312	1054	203	122	1338	2140									
+2011-06	Données définitives	France	40353	32589	1974	509	422	1043	4269	886	214	420	33771	5968	6819	851	561	354	1267	2074									
+2011-07	Données définitives	France	40905	33487	1672	221	429	1023	4174	839	248	484	34204	6058	6634	576	666	469	1019	2170									
+2011-08	Données définitives	France	38497	31383	1805	320	416	1070	3871	687	270	480	32625	5211	6040	829	598	606	778	2088									
+2011-09	Données définitives	France	38968	31477	2749	809	440	1500	3218	855	251	418	34230	4141	5244	1102	322	349	776	1953									
+2011-10	Données définitives	France	42435	32824	4673	1689	565	2419	3256	1070	207	404	37977	3719	5969	2249	109	352	1636	2074									
+2011-11	Données définitives	France	46277	33705	7081	2065	961	4054	3937	945	120	488	41837	3756	5961	2205	-50	-100	1674	2191									
+2011-12	Données définitives	France	53647	39864	5475	1061	861	3553	5646	2053	99	509	48241	4732	6922	2190	766	295	1601	2186									
+2012-01	Données définitives	France	57177	42811	5399	741	691	3967	6741	1587	125	514	51086	5371	7043	1672	929	724	1581	2195	-59								
+2012-02	Données définitives	France	54419	38661	8721	2511	1309	4901	5244	1123	216	454	54476	-715	4504	5220	-798	-309	1244	1579	-2430								
+2012-03	Données définitives	France	48583	37549	5276	1435	666	3175	3894	977	356	531	43156	4888	7042	2153	583	330	1742	2235	-1								
+2012-04	Données définitives	France	44192	33100	3484	1655	486	1343	5302	1572	329	405	40176	3447	5762	2314	547	-9	1271	1670	-31								
+2012-05	Données définitives	France	40433	29058	1772	854	368	549	7706	974	454	469	35257	4425	6391	1965	693	251	1341	1060	1079								
+2012-06	Données définitives	France	37518	26562	2219	960	384	875	6823	994	483	437	33219	3648	5674	2026	447	482	1207	599	913								
+2012-07	Données définitives	France	37910	28818	2221	1110	437	674	4901	912	544	513	34141	3216	5327	2110	822	494	825	787	287								
+2012-08	Données définitives	France	36339	28314	2533	1165	413	956	3563	907	536	486	32247	3561	5834	2273	948	334	610	792	877								
+2012-09	Données définitives	France	38035	30130	2450	1382	396	671	3641	931	413	470	33269	4054	6036	1981	1011	72	790	1413	769								
+2012-10	Données définitives	France	42987	32848	3518	2039	456	1022	4534	1355	283	450	38628	3625	6387	2762	183	-273	1621	1774	321								
+2012-11	Données définitives	France	49228	37119	5189	1821	524	2845	4914	1309	182	514	44260	4355	6802	2447	597	-172	1586	1705	639								
+2012-12	Données définitives	France	54715	39912	5319	1714	548	3057	6521	2290	149	525	49602	4367	6716	2349	529	-30	1292	1718	859								
+2013-01	Données définitives	Grand-Est	9924	7258	1508	928	8	570	814	278	7	57																	
+2013-01	Données définitives	Nouvelle-Aquitaine	5644	4801	187		0	186	465	61	23	105																	
+2013-01	Données définitives	Auvergne-Rhône-Alpes	13119	9641	278	0	49	227	3047	66	14	71																	
+2013-01	Données définitives	Bourgogne-Franche-Comté	403		244	75	0	168	121	21	2	13																	
+2013-01	Données définitives	Bretagne	246		49		1	48	56	118	3	18																	
+2013-01	Données définitives	Centre-Val de Loire	7965	7717	70		2	67	24	122	3	27																	
+2013-01	Données définitives	France	57739	42406	6301	2566	393	3342	6906	1326	146	654	53619	3484	6604	3120	493	91	1499	1666	-265								
+2013-01	Données définitives	Ile-de-France	870		753	195	37	520	0	3	0	112																	
+2013-01	Données définitives	Occitanie	3450	1853	76		10	65	1214	208	34	63																	
+2013-01	Données définitives	Normandie	8304	7473	677	392	47	238	15	87	1	48																	
+2013-01	Données définitives	Hauts-de-France	4786	3660	797	118	0	678	1	267	1	57																	
+2013-01	Données définitives	PACA	1941		759	254	128	376	1079	12	38	52																	
+2013-01	Données définitives	Pays-de-la-Loire	933		817	600	22	193	1	75	7	30																	
+2013-02	Données définitives	Grand-Est	9057	6086	1863	1087	8	768	708	332	14	52																	
+2013-02	Données définitives	Nouvelle-Aquitaine	5313	4374	158		6	152	570	70	42	96																	
+2013-02	Données définitives	Auvergne-Rhône-Alpes	11499	8309	233	0	56	175	2808	66	21	60																	
+2013-02	Données définitives	Bourgogne-Franche-Comté	378		210	91	0	118	124	25	5	12																	
+2013-02	Données définitives	Bretagne	241		45		1	43	47	122	7	18																	
+2013-02	Données définitives	Centre-Val de Loire	7261	6992	57		2	54	27	150	7	26																	
+2013-02	Données définitives	France	52257	36754	6357	2667	397	3293	6858	1463	230	595	49639	2132	5850	3718	465	-306	1545	1563	-1135								
+2013-02	Données définitives	Ile-de-France	779		668	141	41	484	0	3	2	105																	
+2013-02	Données définitives	Occitanie	3491	1712	55		-4	59	1406	209	53	55																	
+2013-02	Données définitives	Normandie	7152	6322	678	370	44	263	11	89	3	45																	
+2013-02	Données définitives	Hauts-de-France	4072	2956	776	106	0	668	1	283	4	50																	
+2013-02	Données définitives	PACA	1817		626	256	117	252	1085	12	46	47																	
+2013-02	Données définitives	Pays-de-la-Loire	1046		906	611	44	250	1	96	14	28																	
+2013-03	Données définitives	Grand-Est	9500	6711	1685	1043	9	632	697	316	29	59																	
+2013-03	Données définitives	Nouvelle-Aquitaine	5255	4399	155		6	149	454	67	68	110																	
+2013-03	Données définitives	Auvergne-Rhône-Alpes	11129	8164	214	0	56	156	2582	62	34	70																	
+2013-03	Données définitives	Bourgogne-Franche-Comté	339		209	83	0	124	84	21	10	13																	
+2013-03	Données définitives	Bretagne	249		49		2	47	50	120	10	19																	
+2013-03	Données définitives	Centre-Val de Loire	7083	6836	61		2	59	16	125	11	31																	
+2013-03	Données définitives	France	51882	36785	6270	2833	422	3015	6488	1352	344	642	49480	1733	6003	4270	566	-636	1170	1513	-880								
+2013-03	Données définitives	Ile-de-France	886		769	242	61	466	3	2	3	106																	
+2013-03	Données définitives	Occitanie	3648	1798	86		24	62	1437	186	76	62																	
+2013-03	Données définitives	Normandie	7126	6283	701	384	48	268	15	73	5	45																	
+2013-03	Données définitives	Hauts-de-France	3669	2590	738	118	0	619	1	275	7	55																	
+2013-03	Données définitives	PACA	1875		738	403	123	210	1032	10	56	37																	
+2013-03	Données définitives	Pays-de-la-Loire	954		811	554	37	218	1	86	21	33																	
+2013-04	Données définitives	Grand-Est	8815	6661	876	611	0	264	835	362	41	36																	
+2013-04	Données définitives	Nouvelle-Aquitaine	3548	2774	34		4	29	509	56	82	91																	
+2013-04	Données définitives	Auvergne-Rhône-Alpes	10532	7410	34	0	31	3	2948	55	39	42																	
+2013-04	Données définitives	Bourgogne-Franche-Comté	178		33	2	0	29	96	25	14	8																	
+2013-04	Données définitives	Bretagne	239		2		1	0	41	166	16	12																	
+2013-04	Données définitives	Centre-Val de Loire	5652	5454	2		0	2	23	135	17	20																	
+2013-04	Données définitives	France	44117	31497	2984	1550	287	1146	7242	1490	434	469	40292	3211	6380	3168	819	-464	1015	1283	559								
+2013-04	Données définitives	Ile-de-France	291		194	113	30	49	4	3	6	82																	
+2013-04	Données définitives	Occitanie	3411	1728	0		0	0	1374	183	86	39																	
+2013-04	Données définitives	Normandie	5919	5305	457	251	44	161	14	93	10	37																	
+2013-04	Données définitives	Hauts-de-France	2902	2162	382	55	0	326	1	300	12	43																	
+2013-04	Données définitives	PACA	1873		475	175	103	196	1292	7	64	33																	
+2013-04	Données définitives	Pays-de-la-Loire	609		454	339	33	81	2	96	31	24																	
+2013-05	Données définitives	Grand-Est	8500	6997	225	134	0	90	971	224	42	38																	
+2013-05	Données définitives	Nouvelle-Aquitaine	3139	2364	20		1	18	534	41	83	94																	
+2013-05	Données définitives	Auvergne-Rhône-Alpes	11456	7533	17	0	15	2	3745	56	51	51																	
+2013-05	Données définitives	Bourgogne-Franche-Comté	188		20	0	0	21	121	18	15	11																	
+2013-05	Données définitives	Bretagne	186		2		2	0	36	114	18	15																	
+2013-05	Données définitives	Centre-Val de Loire	5699	5523	1		0	1	25	101	18	29																	
+2013-05	Données définitives	France	43377	31171	1403	572	230	601	8607	1155	503	537	36821	5722	7689	1969	1073	512	1159	1090	1886								
+2013-05	Données définitives	Ile-de-France	141		39	23	15	0	0	2	6	92																	
+2013-05	Données définitives	Occitanie	3672	1750	-2		-2	0	1544	214	106	58																	
+2013-05	Données définitives	Normandie	5021	4529	368	157	47	163	8	68	10	36																	
+2013-05	Données définitives	Hauts-de-France	2988	2473	216	23	0	191	1	233	12	52																	
+2013-05	Données définitives	PACA	1931		260	50	100	109	1538	10	89	32																	
+2013-05	Données définitives	Pays-de-la-Loire	327		197	182	12	2	1	66	34	27																	
+2013-06	Données définitives	Grand-Est	7282	5821	182	127	1	53	933	251	56	38																	
+2013-06	Données définitives	Nouvelle-Aquitaine	3521	2820	19		2	17	456	37	90	96																	
+2013-06	Données définitives	Auvergne-Rhône-Alpes	9750	6291	32	0	32	0	3252	65	60	48																	
+2013-06	Données définitives	Bourgogne-Franche-Comté	147		20	0	0	20	81	18	19	7																	
+2013-06	Données définitives	Bretagne	177		1		1	0	42	101	18	15																	
+2013-06	Données définitives	Centre-Val de Loire	4883	4720	1		0	1	11	102	20	27																	
+2013-06	Données définitives	France	39337	28619	1111	388	261	463	7375	1160	563	508	32973	5627	7193	1564	928	543	1289	1188	1681								
+2013-06	Données définitives	Ile-de-France	192		90	76	12	1	3	2	7	89																	
+2013-06	Données définitives	Occitanie	3082	1512	10		10	0	1188	199	115	56																	
+2013-06	Données définitives	Normandie	5141	4824	200	21	44	134	8	66	11	29																	
+2013-06	Données définitives	Hauts-de-France	3128	2628	191	16	0	174	1	244	13	48																	
+2013-06	Données définitives	PACA	1643		153	2	92	58	1350	11	99	28																	
+2013-06	Données définitives	Pays-de-la-Loire	285		163	144	18	1	0	59	35	26																	
+2013-07	Données définitives	Grand-Est	8095	6409	437	371	0	65	919	226	65	37																	
+2013-07	Données définitives	Nouvelle-Aquitaine	3259	2698	19		3	16	279	46	119	96																	
+2013-07	Données définitives	Auvergne-Rhône-Alpes	9153	6045	26	0	26	0	2929	36	69	47																	
+2013-07	Données définitives	Bourgogne-Franche-Comté	113		19	0	0	19	45	17	23	7																	
+2013-07	Données définitives	Bretagne	167		1		1	0	34	87	22	21																	
+2013-07	Données définitives	Centre-Val de Loire	5463	5307	1		0	1	3	96	25	29																	
+2013-07	Données définitives	France	40850	30694	1636	860	302	474	6407	877	658	577	34751	5453	6975	1522	1401	521	963	1372	1196								
+2013-07	Données définitives	Ile-de-France	213		81	65	15	0	6	2	9	113																	
+2013-07	Données définitives	Occitanie	2874	1534	-2		-2	0	1075	76	134	57																	
+2013-07	Données définitives	Normandie	6070	5583	379	190	47	141	10	47	14	35																	
+2013-07	Données définitives	Hauts-de-France	3617	3116	256	54	0	201	1	170	17	56																	
+2013-07	Données définitives	PACA	1390		148	24	97	27	1084	4	101	51																	
+2013-07	Données définitives	Pays-de-la-Loire	304		167	154	13	0	0	64	43	27																	
+2013-08	Données définitives	Grand-Est	7615	6218	467	361	0	105	690	141	57	39																	
+2013-08	Données définitives	Nouvelle-Aquitaine	3608	3256	17		0	17	96	30	107	100																	
+2013-08	Données définitives	Auvergne-Rhône-Alpes	8779	6479	27	0	27	0	2108	47	64	52																	
+2013-08	Données définitives	Bourgogne-Franche-Comté	104		26	7	0	18	34	11	21	10																	
+2013-08	Données définitives	Bretagne	145		1		1	0	39	60	20	24																	
+2013-08	Données définitives	Centre-Val de Loire	4385	4260	1		0	1	2	66	23	32																	
+2013-08	Données définitives	France	38428	29908	2044	1197	285	562	4551	739	602	584	31591	6171	7409	1238	1199	674	905	1705	1688								
+2013-08	Données définitives	Ile-de-France	206		90	89	0	0	5	1	8	100																	
+2013-08	Données définitives	Occitanie	1858	768	-2		-2	0	780	138	115	57																	
+2013-08	Données définitives	Normandie	6713	6270	339	164	39	135	10	41	12	37																	
+2013-08	Données définitives	Hauts-de-France	3148	2653	280	40	0	239	0	144	14	55																	
+2013-08	Données définitives	PACA	1209		280	143	92	45	768	7	99	52																	
+2013-08	Données définitives	Pays-de-la-Loire	520		406	390	15	0	0	46	42	26																	
+2013-09	Données définitives	Grand-Est	7622	5801	841	506	0	333	669	233	41	35																	
+2013-09	Données définitives	Nouvelle-Aquitaine	4057	3718	18		0	18	108	40	79	92																	
+2013-09	Données définitives	Auvergne-Rhône-Alpes	8236	6236	40	0	31	9	1810	50	48	50																	
+2013-09	Données définitives	Bourgogne-Franche-Comté	209		51	31	0	19	113	17	15	11																	
+2013-09	Données définitives	Bretagne	140		1		1	0	38	67	14	18																	
+2013-09	Données définitives	Centre-Val de Loire	4336	4201	1		0	1	0	90	15	27																	
+2013-09	Données définitives	France	38604	29758	2784	1712	262	810	4126	948	463	525	33195	4705	6854	2148	1171	397	1207	1136	795								
+2013-09	Données définitives	Ile-de-France	295		204	188	13	1	5	2	5	77																	
+2013-09	Données définitives	Occitanie	2446	1525	-2		-2	0	611	160	98	53																	
+2013-09	Données définitives	Normandie	6200	5722	374	215	37	121	10	50	8	33																	
+2013-09	Données définitives	Hauts-de-France	3020	2553	235	16	0	218	0	167	10	53																	
+2013-09	Données définitives	PACA	1304		409	230	92	86	750	7	83	52																	
+2013-09	Données définitives	Pays-de-la-Loire	643		534	521	13	0	0	57	29	22																	
+2013-10	Données définitives	Grand-Est	7614	5315	1103	670	1	431	732	386	26	51																	
+2013-10	Données définitives	Nouvelle-Aquitaine	4592	4136	42		0	42	203	65	59	84																	
+2013-10	Données définitives	Auvergne-Rhône-Alpes	8876	6354	35	0	32	2	2315	81	30	58																	
+2013-10	Données définitives	Bourgogne-Franche-Comté	161		30	7	0	22	76	31	10	12																	
+2013-10	Données définitives	Bretagne	217		6		3	3	39	136	10	24																	
+2013-10	Données définitives	Centre-Val de Loire	4701	4507	6		2	4	5	136	10	36																	
+2013-10	Données définitives	France	41761	31105	3262	1947	282	1032	4855	1612	320	607	37063	3873	6433	2560	878	285	1796	1177	-263								
+2013-10	Données définitives	Ile-de-France	323		199	185	8	4	3	3	3	113																	
+2013-10	Données définitives	Occitanie	2764	1742	1		0	1	698	184	73	62																	
+2013-10	Données définitives	Normandie	6568	5972	430	268	35	125	10	108	5	41																	
+2013-10	Données définitives	Hauts-de-France	3844	3077	328	57	1	269	1	377	6	53																	
+2013-10	Données définitives	PACA	1292		421	225	107	88	763	8	55	42																	
+2013-10	Données définitives	Pays-de-la-Loire	724		586	530	20	35	0	88	19	29																	
+2013-11	Données définitives	Grand-Est	10040	7388	1366	769	8	588	775	438	12	59																	
+2013-11	Données définitives	Nouvelle-Aquitaine	4260	3425	75		0	74	533	93	30	102																	
+2013-11	Données définitives	Auvergne-Rhône-Alpes	10312	7085	149	0	38	109	2906	77	16	76																	
+2013-11	Données définitives	Bourgogne-Franche-Comté	268		126	35	0	90	82	39	5	14																	
+2013-11	Données définitives	Bretagne	263		53		1	52	38	141	5	23																	
+2013-11	Données définitives	Centre-Val de Loire	6099	5793	52		2	49	19	192	5	36																	
+2013-11	Données définitives	France	48527	34630	4877	2095	315	2467	6365	1809	183	663	45310	2381	5870	3488	949	-277	1462	1129	-881								
+2013-11	Données définitives	Ile-de-France	569		457	171	15	270	0	4	1	105																	
+2013-11	Données définitives	Occitanie	2836	1325	38		-4	42	1117	246	42	66																	
+2013-11	Données définitives	Normandie	7104	6384	555	284	36	234	7	105	3	48																	
+2013-11	Données définitives	Hauts-de-France	4317	3228	682	86	1	595	1	335	2	66																	
+2013-11	Données définitives	PACA	1466		551	233	128	190	824	13	39	37																	
+2013-11	Données définitives	Pays-de-la-Loire	864		702	514	20	167	1	117	11	30																	
+2013-12	Données définitives	Grand-Est	10172	7587	1354	640	8	704	659	497	13	60																	
+2013-12	Données définitives	Nouvelle-Aquitaine	3847	3172	81		0	81	355	101	42	94																	
+2013-12	Données définitives	Auvergne-Rhône-Alpes	12264	9398	159	0	36	122	2526	79	22	78																	
+2013-12	Données définitives	Bourgogne-Franche-Comté	219		78	0	0	79	81	37	6	14																	
+2013-12	Données définitives	Bretagne	306		59		0	58	48	168	5	24																	
+2013-12	Données définitives	Centre-Val de Loire	7310	7002	56		2	53	12	193	7	37																	
+2013-12	Données définitives	France	53564	40422	4545	1512	359	2675	5688	2011	216	680	50108	2653	6097	3442	535	366	1344	1666	-1256								
+2013-12	Données définitives	Ile-de-France	568		440	123	21	295	2	5	1	118																	
+2013-12	Données définitives	Occitanie	3297	1846	48		1	46	1095	188	52	65																	
+2013-12	Données définitives	Normandie	8105	7391	519	235	40	243	11	135	3	43																	
+2013-12	Données définitives	Hauts-de-France	5233	4023	673	48	1	623	1	462	3	67																	
+2013-12	Données définitives	PACA	1296		358	55	134	169	844	10	38	43																	
+2013-12	Données définitives	Pays-de-la-Loire	798		622	408	18	196	1	128	12	33																	
+2014-01	Données définitives	Grand-Est	10126	8071	740	399	0	340	712	535	13	53	4594	5431															
+2014-01	Données définitives	Nouvelle-Aquitaine	4688	3871	77		0	77	520	98	30	89	4501	187															
+2014-01	Données définitives	Auvergne-Rhône-Alpes	13001	9578	139	0	35	103	3116	75	18	74	6693	5858															
+2014-01	Données définitives	Bourgogne-Franche-Comté	301		89	0	0	90	153	38	5	13	2158	-1857															
+2014-01	Données définitives	Bretagne	345		60		0	59	57	200	5	21	2390	-2050															
+2014-01	Données définitives	Centre-Val de Loire	8353	8017	55		0	55	23	214	5	36	2034	6318															
+2014-01	Données définitives	France	55975	42697	3183	966	273	1943	7072	2193	176	652	49359	5679	7871	2191	1405	-254	1757	2160	611								
+2014-01	Données définitives	Ile-de-France	455		337	107	4	226	1	5	1	109	7612	-7156															
+2014-01	Données définitives	Occitanie	3517	1795	46		-3	50	1384	189	40	61	3831	-526															
+2014-01	Données définitives	Normandie	7972	7354	402	118	43	239	16	156	2	39	2869	5102															
+2014-01	Données définitives	Hauts-de-France	5111	4008	502	52	0	448	1	525	2	70	5239	-128															
+2014-01	Données définitives	PACA	1389		305	53	125	126	989	8	34	51	4314	-2931															
+2014-01	Données définitives	Pays-de-la-Loire	563		377	233	18	124	2	144	9	29	2875	-2312															
+2014-02	Données définitives	Grand-Est	9473	7364	804	499	0	304	627	609	18	49	4173	5196															
+2014-02	Données définitives	Nouvelle-Aquitaine	4762	3811	88		6	81	595	128	48	91	4184	578															
+2014-02	Données définitives	Auvergne-Rhône-Alpes	11323	8105	125	0	33	91	2916	80	26	69	6013	4940															
+2014-02	Données définitives	Bourgogne-Franche-Comté	238		66	0	0	66	100	51	8	12	1940	-1702															
+2014-02	Données définitives	Bretagne	347		52		1	51	49	218	8	19	2160	-1816															
+2014-02	Données définitives	Centre-Val de Loire	7353	6956	54		0	54	28	272	9	32	1837	5516															
+2014-02	Données définitives	France	49555	36396	2699	717	277	1704	7108	2484	262	604	44580	4138	6705	2567	1278	-633	1818	1740	-66								
+2014-02	Données définitives	Ile-de-France	307		192	16	-1	177	0	6	2	104	6749	-6442															
+2014-02	Données définitives	Occitanie	3670	1642	43		-3	46	1670	198	61	54	3467	5															
+2014-02	Données définitives	Normandie	5807	5173	407	144	43	219	15	166	5	39	2600	3206															
+2014-02	Données définitives	Hauts-de-France	4414	3343	440	39	0	399	1	561	5	62	4692	-278															
+2014-02	Données définitives	PACA	1347		239	-2	133	107	1014	8	44	41	3931	-2585															
+2014-02	Données définitives	Pays-de-la-Loire	366		141	19	18	103	2	179	17	26	2618	-2251															
+2014-03	Données définitives	Grand-Est	8666	7051	636	403	0	232	609	267	47	54	4075	4493															
+2014-03	Données définitives	Nouvelle-Aquitaine	5161	4284	92		6	85	549	57	93	85	3993	1168															
+2014-03	Données définitives	Auvergne-Rhône-Alpes	10828	7702	139	1	33	104	2781	70	59	75	5965	4504															
+2014-03	Données définitives	Bourgogne-Franche-Comté	217		74	0	0	75	83	25	19	15	1891	-1673															
+2014-03	Données définitives	Bretagne	264		58		1	56	56	110	15	24	2084	-1823															
+2014-03	Données définitives	Centre-Val de Loire	7392	7153	47		0	47	20	113	20	37	1736	5656															
+2014-03	Données définitives	France	48290	35797	2974	1023	289	1661	7034	1294	534	655	43104	4354	7144	2789	979	-192	1836	1575	155								
+2014-03	Données définitives	Ile-de-France	406		280	73	19	188	4	2	6	112	6509	-6102															
+2014-03	Données définitives	Occitanie	3984	1827	49		-1	51	1705	220	116	64	3306	491															
+2014-03	Données définitives	Normandie	5183	4639	403	131	44	227	16	74	10	39	2532	2651															
+2014-03	Données définitives	Hauts-de-France	3908	3138	428	32	0	395	1	259	11	68	4608	-700															
+2014-03	Données définitives	PACA	1471		196	-1	114	82	1124	8	91	50	3694	-2227															
+2014-03	Données définitives	Pays-de-la-Loire	661		516	383	18	113	2	81	33	27	2495	-1833															
+2014-04	Données définitives	Grand-Est	6509	5166	492	359	0	132	555	206	49	38	3523	2888															
+2014-04	Données définitives	Nouvelle-Aquitaine	4667	4008	24		4	19	374	58	107	93	3237	1429															
+2014-04	Données définitives	Auvergne-Rhône-Alpes	9143	6649	25	0	23	1	2287	57	65	57	5139	3705															
+2014-04	Données définitives	Bourgogne-Franche-Comté	102		19	0	0	19	32	19	20	11	1621	-1518															
+2014-04	Données définitives	Bretagne	182		1		0	0	38	103	17	22	1746	-1565															
+2014-04	Données définitives	Centre-Val de Loire	6551	6402	0		0	0	6	90	20	31	1486	5065															
+2014-04	Données définitives	France	40826	31208	1539	767	230	541	5860	1057	584	576	36331	3821	6441	2619	1307	-162	1187	807	682								
+2014-04	Données définitives	Ile-de-France	206		76	68	8	0	6	2	6	113	5396	-5190															
+2014-04	Données définitives	Occitanie	3220	1561	1		1	0	1291	189	125	50	2664	461															
+2014-04	Données définitives	Normandie	5738	5451	179	-2	44	137	15	53	11	28	2169	3569															
+2014-04	Données définitives	Hauts-de-France	2436	1968	214	7	0	206	1	186	13	52	4025	-1589															
+2014-04	Données définitives	PACA	1442		108	-1	88	21	1176	9	98	49	3064	-1627															
+2014-04	Données définitives	Pays-de-la-Loire	494		351	336	14	0	2	78	36	25	2099	-1604															
+2014-05	Données définitives	Grand-Est	7280	5725	273	164	0	109	816	363	58	42	3447	3739															
+2014-05	Données définitives	Nouvelle-Aquitaine	4222	3523	20		1	19	381	71	122	103	3100	1122															
+2014-05	Données définitives	Auvergne-Rhône-Alpes	9448	6671	21	0	23	-1	2525	89	73	66	4858	4208															
+2014-05	Données définitives	Bourgogne-Franche-Comté	138		21	0	0	21	46	33	23	14	1565	-1427															
+2014-05	Données définitives	Bretagne	201		1		1	0	48	103	21	25	1567	-1371															
+2014-05	Données définitives	Centre-Val de Loire	6405	6191	0		0	0	8	148	22	33	1349	5056															
+2014-05	Données définitives	France	41872	31713	1099	368	214	515	6203	1531	681	643	34695	6255	7873	1618	1417	663	1214	1375	1583								
+2014-05	Données définitives	Ile-de-France	179		46	44	2	0	5	3	8	115	5279	-5100															
+2014-05	Données définitives	Occitanie	2500	859	-3		-3	0	1197	237	147	61	2526	-263															
+2014-05	Données définitives	Normandie	6679	6348	176	-2	42	136	16	83	13	41	2037	4641															
+2014-05	Données définitives	Hauts-de-France	2940	2392	177	7	0	169	1	289	14	64	3955	-1015															
+2014-05	Données définitives	PACA	1424		146	0	86	60	1103	11	118	44	2948	-1531															
+2014-05	Données définitives	Pays-de-la-Loire	338		170	156	14	0	2	92	43	29	1920	-1581															
+2014-06	Données définitives	Grand-Est	7289	5991	283	140	0	142	659	248	69	36	3275	3920															
+2014-06	Données définitives	Nouvelle-Aquitaine	4574	3982	18		1	16	273	52	144	102	2930	1644															
+2014-06	Données définitives	Auvergne-Rhône-Alpes	8705	6303	15	0	16	-1	2189	55	86	55	4621	3801															
+2014-06	Données définitives	Bourgogne-Franche-Comté	92		11	0	0	11	18	25	27	10	1446	-1353															
+2014-06	Données définitives	Bretagne	168		0		0	0	43	77	24	22	1428	-1264															
+2014-06	Données définitives	Centre-Val de Loire	6035	5870	1		0	1	3	102	25	32	1234	4800															
+2014-06	Données définitives	France	39366	30994	1030	354	206	469	5057	961	763	559	32608	5967	7401	1434	1075	668	1362	1419	1440								
+2014-06	Données définitives	Ile-de-France	149		47	48	0	0	3	2	9	86	4815	-4666															
+2014-06	Données définitives	Occitanie	2192	817	-1		-1	0	1029	140	164	42	2484	-534															
+2014-06	Données définitives	Normandie	6237	5974	154	-2	39	117	11	41	15	39	1844	4392															
+2014-06	Données définitives	Hauts-de-France	2472	2054	187	20	0	166	0	147	16	64	3669	-1197															
+2014-06	Données définitives	PACA	1042		86	-2	75	13	797	5	116	36	2901	-1866															
+2014-06	Données définitives	Pays-de-la-Loire	309		167	149	17	0	1	61	49	29	1809	-1500															
+2014-07	Données définitives	Grand-Est	8924	7544	119	36	0	82	963	203	54	39	3346	5465															
+2014-07	Données définitives	Nouvelle-Aquitaine	3973	3446	18		3	15	239	38	132	97	3123	850															
+2014-07	Données définitives	Auvergne-Rhône-Alpes	9473	6380	25	0	26	0	2880	53	68	64	4823	4305															
+2014-07	Données définitives	Bourgogne-Franche-Comté	152		10	0	0	10	85	20	20	15	1499	-1346															
+2014-07	Données définitives	Bretagne	163		1		1	0	47	65	23	25	1501	-1343															
+2014-07	Données définitives	Centre-Val de Loire	6305	6157	1		0	1	4	84	23	34	1289	5016															
+2014-07	Données définitives	France	42722	33394	854	156	268	429	6198	956	689	629	33935	7928	8571	643	1417	694	1366	2001	2448								
+2014-07	Données définitives	Ile-de-France	126		1	0	1	0	3	1	7	110	4889	-4763															
+2014-07	Données définitives	Occitanie	2245	927	0		0	0	912	203	149	53	2585	-535															
+2014-07	Données définitives	Normandie	6817	6549	158	-1	43	116	10	47	14	37	1900	4916															
+2014-07	Données définitives	Hauts-de-France	2837	2387	197	-1	0	198	0	170	14	65	3740	-903															
+2014-07	Données définitives	PACA	1313		95	3	86	4	1036	9	121	51	3167	-1861															
+2014-07	Données définitives	Pays-de-la-Loire	267		133	118	14	0	0	55	45	31	1894	-1627															
+2014-08	Données définitives	Grand-Est	8625	7269	55	4	0	50	983	226	51	40	2952	5562															
+2014-08	Données définitives	Nouvelle-Aquitaine	2682	2234	17		0	17	158	37	135	98	2893	-210															
+2014-08	Données définitives	Auvergne-Rhône-Alpes	9052	6357	24	0	25	-1	2487	38	76	68	4299	4447															
+2014-08	Données définitives	Bourgogne-Franche-Comté	142		11	0	0	11	73	21	21	15	1290	-1147															
+2014-08	Données définitives	Bretagne	171		0		0	0	47	76	19	27	1437	-1270															
+2014-08	Données définitives	Centre-Val de Loire	5330	5178	0		0	0	5	88	22	34	1170	4160															
+2014-08	Données définitives	France	39407	30989	803	79	262	461	5314	976	694	627	31004	7606	8351	744	1429	812	1194	1909	2260								
+2014-08	Données définitives	Ile-de-France	116		0	-1	1	0	5	2	7	102	4355	-4238															
+2014-08	Données définitives	Occitanie	2165	1104	-2		-2	0	743	116	150	52	2497	-557															
+2014-08	Données définitives	Normandie	6515	6216	164	-1	41	124	13	65	12	42	1793	4721															
+2014-08	Données définitives	Hauts-de-France	3188	2627	237	-1	0	238	1	241	13	66	3393	-204															
+2014-08	Données définitives	PACA	1088		120	18	81	20	781	5	128	52	3044	-1959															
+2014-08	Données définitives	Pays-de-la-Loire	198		74	61	12	0	1	54	40	26	1693	-1495															
+2014-09	Données définitives	Grand-Est	8938	7549	367	193	0	173	764	174	48	33	3345	5497															
+2014-09	Données définitives	Nouvelle-Aquitaine	3237	2802	15		0	15	129	49	142	98	2961	275															
+2014-09	Données définitives	Auvergne-Rhône-Alpes	9236	7441	39	0	36	3	1570	48	68	66	4716	4209															
+2014-09	Données définitives	Bourgogne-Franche-Comté	135		12	0	0	12	66	19	21	15	1480	-1344															
+2014-09	Données définitives	Bretagne	135		0		0	0	42	48	19	23	1476	-1344															
+2014-09	Données définitives	Centre-Val de Loire	4875	4743	0		0	0	2	73	22	33	1296	3579															
+2014-09	Données définitives	France	39183	31938	1516	690	278	547	3775	728	640	584	33266	5121	7830	2708	1268	755	1734	648	714								
+2014-09	Données définitives	Ile-de-France	214		111	100	10	0	4	1	7	89	4874	-4659															
+2014-09	Données définitives	Occitanie	2290	1434	5		4	0	564	104	133	47	2551	-452															
+2014-09	Données définitives	Normandie	5686	5422	163	-2	36	129	10	30	12	47	1899	3787															
+2014-09	Données définitives	Hauts-de-France	2951	2544	218	9	0	208	0	119	11	57	3783	-831															
+2014-09	Données définitives	PACA	950		191	105	82	3	613	7	98	39	2922	-1972															
+2014-09	Données définitives	Pays-de-la-Loire	419		297	283	14	0	0	48	41	30	1806	-1386															
+2014-10	Données définitives	Grand-Est	8992	7195	768	423	0	344	684	275	28	40	3741	5142															
+2014-10	Données définitives	Nouvelle-Aquitaine	3333	2855	24		0	24	175	61	112	103	3150	183															
+2014-10	Données définitives	Auvergne-Rhône-Alpes	9205	7349	74	0	38	35	1617	52	51	60	5085	3755															
+2014-10	Données définitives	Bourgogne-Franche-Comté	108		13	0	0	13	40	27	13	12	1669	-1561															
+2014-10	Données définitives	Bretagne	204		5		3	1	46	117	11	24	1643	-1443															
+2014-10	Données définitives	Centre-Val de Loire	5793	5619	3		0	3	8	111	14	35	1461	4331															
+2014-10	Données définitives	France	41312	32803	2385	1076	322	987	3785	1277	479	580	36301	4108	8049	3941	937	505	2272	543	-151								
+2014-10	Données définitives	Ile-de-France	287		177	151	22	3	5	2	4	97	5535	-5248															
+2014-10	Données définitives	Occitanie	1692	777	4		3	0	610	133	112	55	2549	-1083															
+2014-10	Données définitives	Normandie	6284	5967	181	-2	33	150	11	95	7	20	2150	4133															
+2014-10	Données définitives	Hauts-de-France	3759	3038	340	73	0	266	0	319	7	52	4179	-419															
+2014-10	Données définitives	PACA	1127		411	187	90	133	582	8	79	45	2996	-1869															
+2014-10	Données définitives	Pays-de-la-Loire	426		296	242	45	8	0	70	26	32	1987	-1561															
+2014-11	Données définitives	Grand-Est	10023	8199	689	299	0	389	725	344	13	51	4011	5925															
+2014-11	Données définitives	Nouvelle-Aquitaine	4133	3532	81		0	80	263	89	57	109	3592	540															
+2014-11	Données définitives	Auvergne-Rhône-Alpes	9949	7339	208	0	34	173	2228	67	25	79	5643	3909															
+2014-11	Données définitives	Bourgogne-Franche-Comté	196		82	0	0	82	55	36	7	14	1807	-1611															
+2014-11	Données définitives	Bretagne	267		57		0	57	52	125	6	26	1899	-1635															
+2014-11	Données définitives	Centre-Val de Loire	7382	7139	52		0	52	9	136	7	38	1644	5738															
+2014-11	Données définitives	France	47114	36290	3500	944	316	2239	4906	1503	244	669	40617	5573	8370	2796	1362	462	1984	1186	577								
+2014-11	Données définitives	Ile-de-France	430		323	63	19	240	5	2	2	95	6255	-5824															
+2014-11	Données définitives	Occitanie	1845	800	49		4	44	687	186	55	64	2940	-1310															
+2014-11	Données définitives	Normandie	6253	5842	263	-2	33	232	9	96	4	37	2435	3817															
+2014-11	Données définitives	Hauts-de-France	4341	3435	522	54	1	466	1	306	4	70	4514	-173															
+2014-11	Données définitives	PACA	1523		584	179	117	287	842	7	40	49	3430	-1912															
+2014-11	Données définitives	Pays-de-la-Loire	657		507	348	26	131	2	101	14	32	2278	-1620															
+2014-12	Données définitives	Grand-Est	10865	8721	936	425	1	509	627	521	5	52	4500	6258															
+2014-12	Données définitives	Nouvelle-Aquitaine	4968	4192	91		0	91	451	76	44	111	4600	368															
+2014-12	Données définitives	Auvergne-Rhône-Alpes	10687	8000	244	2	39	202	2269	74	17	79	6705	3657															
+2014-12	Données définitives	Bourgogne-Franche-Comté	216		72	0	0	72	70	55	3	14	2043	-1827															
+2014-12	Données définitives	Bretagne	311		76		0	76	54	150	4	25	2318	-2011															
+2014-12	Données définitives	Centre-Val de Loire	8745	8440	56		0	56	17	190	4	36	2109	6635															
+2014-12	Données définitives	France	54731	41633	4321	1228	313	2779	5772	2118	190	695	49350	4535	7829	3294	1263	244	1574	1094	358								
+2014-12	Données définitives	Ile-de-France	600		485	176	4	304	4	4	1	105	7847	-7246															
+2014-12	Données définitives	Occitanie	3007	1377	50		0	49	1196	270	46	66	3947	-1128															
+2014-12	Données définitives	Normandie	7635	7160	282	-3	34	250	9	135	2	45	2927	4708															
+2014-12	Données définitives	Hauts-de-France	4885	3741	554	30	4	520	1	515	2	70	5151	-266															
+2014-12	Données définitives	PACA	1944		804	237	120	446	1030	15	42	51	4191	-2249															
+2014-12	Données définitives	Pays-de-la-Loire	725		574	359	16	198	2	105	9	32	2835	-2109															
+2015-01	Données définitives	Grand-Est	11030	8398	1175	565	4	605	808	579	9	59	4770	6145															
+2015-01	Données définitives	Nouvelle-Aquitaine	4861	4103	105		0	105	377	97	54	121	4952	-91															
+2015-01	Données définitives	Auvergne-Rhône-Alpes	12696	9616	242	6	39	196	2659	70	24	81	7123	5249															
+2015-01	Données définitives	Bourgogne-Franche-Comté	312		93	0	0	93	122	75	4	16	2137	-1825															
+2015-01	Données définitives	Bretagne	353		80		0	80	58	183	5	25	2462	-2113															
+2015-01	Données définitives	Centre-Val de Loire	8787	8445	57		0	57	21	224	6	32	2177	6609															
+2015-01	Données définitives	France	58310	43792	5049	1624	385	3039	6212	2299	251	704	52536	4922	7753	2830	1081	622	2001	1770	-553								
+2015-01	Données définitives	Ile-de-France	602		500	200	0	299	2	4	1	93	8361	-7758															
+2015-01	Données définitives	Occitanie	3322	1835	45		-3	49	1085	230	62	62	4219	-1091															
+2015-01	Données définitives	Normandie	8002	7500	292	-3	57	238	10	150	3	43	3048	4953															
+2015-01	Données définitives	Hauts-de-France	5262	3892	746	118	2	626	1	534	3	83	5473	-211															
+2015-01	Données définitives	PACA	1965		816	213	122	480	1033	12	54	49	4519	-2559															
+2015-01	Données définitives	Pays-de-la-Loire	957		778	524	47	206	3	130	12	32	3051	-2093															
+2015-02	Données définitives	Grand-Est	9031	6585	1338	558	4	775	578	450	20	56	4405	4528															
+2015-02	Données définitives	Nouvelle-Aquitaine	4174	3351	101		0	100	422	98	87	112	4573	-399															
+2015-02	Données définitives	Auvergne-Rhône-Alpes	11739	8451	316	7	36	272	2798	66	33	72	6683	4814															
+2015-02	Données définitives	Bourgogne-Franche-Comté	290		101	0	0	101	103	61	10	13	2000	-1710															
+2015-02	Données définitives	Bretagne	322		76		3	72	53	162	9	21	2342	-2024															
+2015-02	Données définitives	Centre-Val de Loire	7988	7669	55		0	54	23	197	10	32	2034	5954															
+2015-02	Données définitives	France	52143	37483	5363	1712	339	3312	6381	1910	358	646	48676	2807	6358	3551	1006	-373	1821	1334	-982								
+2015-02	Données définitives	Ile-de-France	687		596	220	23	352	2	4	3	81	7579	-6891															
+2015-02	Données définitives	Occitanie	3460	1708	40		-3	44	1353	219	79	59	3947	-600															
+2015-02	Données définitives	Normandie	6472	6041	264	-6	47	223	12	108	5	40	2824	3648															
+2015-02	Données définitives	Hauts-de-France	4933	3674	779	85	1	692	1	395	5	76	4976	-43															
+2015-02	Données définitives	PACA	1906		820	312	127	380	963	11	64	46	4222	-2317															
+2015-02	Données définitives	Pays-de-la-Loire	986		799	533	24	241	3	131	21	30	2857	-1870															
+2015-03	Données définitives	Grand-Est	7453	5235	886	426	4	455	762	468	44	54	4213	3118															
+2015-03	Données définitives	Nouvelle-Aquitaine	4432	3477	101		2	98	527	91	114	121	4213	219															
+2015-03	Données définitives	Auvergne-Rhône-Alpes	11430	8230	247	6	40	200	2737	74	57	82	6326	4747															
+2015-03	Données définitives	Bourgogne-Franche-Comté	287		105	0	0	105	94	53	17	16	1808	-1520															
+2015-03	Données définitives	Bretagne	340		81		2	79	53	163	14	27	2224	-1888															
+2015-03	Données définitives	Centre-Val de Loire	8404	8092	56		0	56	23	180	16	35	1860	6544															
+2015-03	Données définitives	France	50683	36915	4023	1108	299	2616	6497	2005	537	705	45739	4103	7394	3290	1153	44	1790	1374	-258								
+2015-03	Données définitives	Ile-de-France	594		494	173	10	310	4	3	5	86	7242	-6647															
+2015-03	Données définitives	Occitanie	3665	1815	49		2	46	1372	252	114	60	3450	84															
+2015-03	Données définitives	Normandie	7003	6579	236	-5	46	195	14	115	9	48	2713	4290															
+2015-03	Données définitives	Hauts-de-France	4694	3484	647	60	1	585	1	465	10	85	4929	-234															
+2015-03	Données définitives	PACA	1593		625	225	112	287	813	10	91	52	3868	-2276															
+2015-03	Données définitives	Pays-de-la-Loire	629		440	221	24	194	3	121	31	32	2675	-2046															
+2015-04	Données définitives	Grand-Est	6724	5024	388	225	2	160	854	346	57	53	3598	3002															
+2015-04	Données définitives	Nouvelle-Aquitaine	3988	3195	40		6	33	401	68	186	95	3278	709															
+2015-04	Données définitives	Auvergne-Rhône-Alpes	10103	7275	130	4	39	86	2487	66	81	61	5283	4439															
+2015-04	Données définitives	Bourgogne-Franche-Comté	203		26	0	0	26	91	50	24	10	1670	-1467															
+2015-04	Données définitives	Bretagne	200		2		2	0	46	104	21	25	1712	-1517															
+2015-04	Données définitives	Centre-Val de Loire	6245	6027	0		0	0	10	150	25	31	1438	4807															
+2015-04	Données définitives	France	41509	31187	1734	548	252	932	5766	1452	782	585	36898	3896	7526	3629	1310	408	1337	741	98								
+2015-04	Données définitives	Ile-de-France	149		50	45	2	3	4	2	8	82	5540	-5391															
+2015-04	Données définitives	Occitanie	3165	1645	-2		-2	0	1129	176	167	49	2686	461															
+2015-04	Données définitives	Normandie	6006	5534	341	168	49	123	11	72	14	32	2184	3821															
+2015-04	Données définitives	Hauts-de-France	3220	2483	333	28	1	303	1	317	15	69	4171	-951															
+2015-04	Données définitives	PACA	1144		310	82	83	144	658	8	120	46	3096	-1952															
+2015-04	Données définitives	Pays-de-la-Loire	227		65	-4	20	49	2	88	44	26	2074	-1847															
+2015-05	Données définitives	Grand-Est	8188	6711	44	22	4	18	970	346	58	55	3357	4706															
+2015-05	Données définitives	Nouvelle-Aquitaine	2872	2081	13		1	11	396	67	194	118	2959	-87															
+2015-05	Données définitives	Auvergne-Rhône-Alpes	10145	6960	34	5	24	4	2907	86	91	65	4839	4922															
+2015-05	Données définitives	Bourgogne-Franche-Comté	196		19	0	0	19	83	51	25	16	1491	-1295															
+2015-05	Données définitives	Bretagne	208		0		0	0	45	112	21	28	1587	-1383															
+2015-05	Données définitives	Centre-Val de Loire	5743	5529	0		0	0	10	139	27	35	1308	4434															
+2015-05	Données définitives	France	40641	30329	747	34	242	471	6500	1580	843	638	33927	5782	8310	2527	1403	817	1389	641	1529								
+2015-05	Données définitives	Ile-de-France	96		8	-1	10	0	3	2	8	72	5155	-5059															
+2015-05	Données définitives	Occitanie	3283	1644	-2		-2	0	1176	234	182	48	2453	609															
+2015-05	Données définitives	Normandie	5169	4827	189	13	50	125	9	85	14	42	2050	3118															
+2015-05	Données définitives	Hauts-de-France	3268	2574	245	1	1	243	1	350	15	80	3874	-605															
+2015-05	Données définitives	PACA	1193		127	-2	82	47	865	11	139	49	2836	-1642															
+2015-05	Données définitives	Pays-de-la-Loire	175		10	-4	15	0	1	89	48	25	1872	-1696															
+2015-06	Données définitives	Grand-Est	7879	6468	55	38	3	14	936	307	65	45	3287	4481															
+2015-06	Données définitives	Nouvelle-Aquitaine	2631	2024	13		2	10	191	46	235	120	2970	-338															
+2015-06	Données définitives	Auvergne-Rhône-Alpes	10056	7200	45	4	35	5	2606	44	101	58	4848	4891															
+2015-06	Données définitives	Bourgogne-Franche-Comté	122		19	0	0	19	26	34	28	13	1501	-1381															
+2015-06	Données définitives	Bretagne	196		2		2	0	45	97	27	24	1471	-1280															
+2015-06	Données définitives	Centre-Val de Loire	6515	6331	1		0	1	2	116	32	31	1349	5166															
+2015-06	Données définitives	France	39927	30719	759	56	265	437	5641	1254	951	600	33256	5865	8422	2557	1320	751	1458	369	1965								
+2015-06	Données définitives	Ile-de-France	104		10	0	6	4	5	2	10	74	4889	-4785															
+2015-06	Données définitives	Occitanie	3002	1703	-2		-2	0	920	137	198	45	2520	285															
+2015-06	Données définitives	Normandie	4261	3949	178	-2	57	122	10	73	17	32	1896	2365															
+2015-06	Données définitives	Hauts-de-France	3650	3040	196	3	0	192	0	315	19	77	3684	-33															
+2015-06	Données définitives	PACA	1236		158	16	75	66	881	6	139	50	2872	-1636															
+2015-06	Données définitives	Pays-de-la-Loire	164		7	-3	10	0	0	71	58	25	1810	-1646															
+2015-07	Données définitives	Grand-Est	9832	8330	353	111	3	238	696	338	68	45	3302	6421															
+2015-07	Données définitives	Nouvelle-Aquitaine	2927	2414	29		3	26	78	53	227	123	3278	-350															
+2015-07	Données définitives	Auvergne-Rhône-Alpes	9703	7400	117	3	36	77	1952	57	106	70	5124	4350															
+2015-07	Données définitives	Bourgogne-Franche-Comté	125		18	0	0	18	18	42	29	15	1534	-1410															
+2015-07	Données définitives	Bretagne	183		1		1	0	41	89	22	27	1509	-1330															
+2015-07	Données définitives	Centre-Val de Loire	5727	5540	0		0	0	0	120	30	35	1364	4363															
+2015-07	Données définitives	France	41695	33272	1382	226	315	840	4044	1399	943	654	34912	6055	8563	2507	1366	668	1522	414	2084								
+2015-07	Données définitives	Ile-de-France	105		12	0	6	6	3	2	9	77	4903	-4798															
+2015-07	Données définitives	Occitanie	2727	1630	-2		-2	0	650	189	196	62	2862	-311															
+2015-07	Données définitives	Normandie	5060	4751	174	-2	49	127	8	75	14	36	1895	3165															
+2015-07	Données définitives	Hauts-de-France	3879	3204	232	1	0	231	0	347	15	78	3645	233															
+2015-07	Données définitives	PACA	1106		309	117	79	113	584	6	149	56	3395	-2288															
+2015-07	Données définitives	Pays-de-la-Loire	166		15	-4	19	0	0	73	53	23	1896	-1729															
+2015-08	Données définitives	Grand-Est	8890	7893	40	32	3	5	557	293	60	44	2993	5791															
+2015-08	Données définitives	Nouvelle-Aquitaine	3415	2968	18		2	15	63	46	206	111	2945	469															
+2015-08	Données définitives	Auvergne-Rhône-Alpes	9715	7848	41	0	30	11	1609	55	91	68	4508	4992															
+2015-08	Données définitives	Bourgogne-Franche-Comté	115		17	0	0	17	17	38	26	15	1338	-1227															
+2015-08	Données définitives	Bretagne	180		0		0	0	48	83	20	28	1458	-1283															
+2015-08	Données définitives	Centre-Val de Loire	5885	5718	0		0	0	0	101	27	38	1212	4673															
+2015-08	Données définitives	France	38939	31994	860	157	283	419	3439	1126	851	666	31603	6686	8175	1488	1342	688	1012	1151	2491								
+2015-08	Données définitives	Ile-de-France	110		3	0	2	1	4	3	8	91	4437	-4326															
+2015-08	Données définitives	Occitanie	1665	724	-2		-2	0	539	154	181	67	2522	-1029															
+2015-08	Données définitives	Normandie	4730	4422	195	24	48	122	8	54	13	35	1764	2966															
+2015-08	Données définitives	Hauts-de-France	2967	2418	224	0	0	223	0	231	14	77	3318	-351															
+2015-08	Données définitives	PACA	877		94	-1	74	21	581	5	134	62	3175	-2297															
+2015-08	Données définitives	Pays-de-la-Loire	244		115	101	14	0	0	56	47	24	1736	-1491															
+2015-09	Données définitives	Grand-Est	7858	6346	447	200	3	242	478	491	45	48	3361	4413															
+2015-09	Données définitives	Nouvelle-Aquitaine	4082	3519	34		7	27	157	77	177	115	2971	1111															
+2015-09	Données définitives	Auvergne-Rhône-Alpes	8018	6168	115	0	28	86	1519	70	73	70	4797	2973															
+2015-09	Données définitives	Bourgogne-Franche-Comté	165		15	0	0	15	49	64	21	14	1530	-1368															
+2015-09	Données définitives	Bretagne	187		0		0	0	42	97	20	25	1499	-1316															
+2015-09	Données définitives	Centre-Val de Loire	6810	6584	0		0	0	0	164	23	36	1292	5517															
+2015-09	Données définitives	France	39078	30643	1956	597	279	1079	3445	1674	715	641	33521	5005	7323	2317	1345	465	1679	486	1028								
+2015-09	Données définitives	Ile-de-France	111		6	0	4	1	5	6	7	86	4957	-4845															
+2015-09	Données définitives	Occitanie	1662	798	1		1	0	487	164	151	59	2406	-820															
+2015-09	Données définitives	Normandie	5042	4635	271	80	48	142	8	80	12	33	1964	3078															
+2015-09	Données définitives	Hauts-de-France	3371	2590	350	3	2	343	0	346	11	71	3813	-441															
+2015-09	Données définitives	PACA	1160		294	67	78	148	691	10	113	51	2929	-1768															
+2015-09	Données définitives	Pays-de-la-Loire	495		327	246	12	69	0	95	44	27	1842	-1346															
+2015-10	Données définitives	Grand-Est	9288	7354	1072	320	3	748	481	300	27	52	3912	5268															
+2015-10	Données définitives	Nouvelle-Aquitaine	4848	4320	50		9	41	163	74	141	97	3509	1339															
+2015-10	Données définitives	Auvergne-Rhône-Alpes	8797	6646	181	0	43	137	1796	62	48	62	5606	2892															
+2015-10	Données définitives	Bourgogne-Franche-Comté	132		21	0	0	21	40	45	13	11	1795	-1666															
+2015-10	Données définitives	Bretagne	194		1		0	0	45	110	12	24	1755	-1566															
+2015-10	Données définitives	Centre-Val de Loire	5850	5685	2		0	2	1	109	15	36	1540	4310															
+2015-10	Données définitives	France	44511	34489	3692	1009	318	2364	3899	1292	512	624	39170	4693	7339	2646	831	481	1522	1374	482								
+2015-10	Données définitives	Ile-de-France	135		24	1	16	7	6	3	4	96	6041	-5906															
+2015-10	Données définitives	Occitanie	2719	1838	-2		-3	0	545	171	113	53	2801	-124															
+2015-10	Données définitives	Normandie	5902	5465	315	142	44	129	7	72	7	34	2290	3612															
+2015-10	Données définitives	Hauts-de-France	4014	3179	514	4	1	507	0	241	7	72	4363	-348															
+2015-10	Données définitives	PACA	1823		881	211	93	576	797	8	82	52	3228	-1404															
+2015-10	Données définitives	Pays-de-la-Loire	701		553	329	32	191	0	88	29	30	2176	-1474															
+2015-11	Données définitives	Grand-Est	10320	8143	994	248	4	741	454	651	16	60	4032	6194															
+2015-11	Données définitives	Nouvelle-Aquitaine	5034	4487	103		7	95	136	88	96	121	3658	1375															
+2015-11	Données définitives	Auvergne-Rhône-Alpes	9258	7192	300	5	45	250	1563	75	40	86	5829	3141															
+2015-11	Données définitives	Bourgogne-Franche-Comté	231		79	0	0	79	37	89	9	15	1890	-1662															
+2015-11	Données définitives	Bretagne	339		65		1	64	44	195	6	26	1844	-1510															
+2015-11	Données définitives	Centre-Val de Loire	6089	5757	52		0	52	2	227	10	39	1607	4482															
+2015-11	Données définitives	France	47560	35681	4657	798	442	3416	3571	2544	376	728	41085	5736	7926	2190	828	1080	2105	2010	-288								
+2015-11	Données définitives	Ile-de-France	464		355	2	45	306	5	8	2	92	6252	-5787															
+2015-11	Données définitives	Occitanie	2815	1666	94		49	44	655	241	88	67	3114	-458															
+2015-11	Données définitives	Normandie	6061	5339	503	221	53	228	6	168	4	39	2375	3686															
+2015-11	Données définitives	Hauts-de-France	4541	3092	700	11	4	684	0	661	3	83	4506	34															
+2015-11	Données définitives	PACA	1701		902	160	120	621	652	10	74	61	3544	-1842															
+2015-11	Données définitives	Pays-de-la-Loire	592		418	148	22	247	0	124	15	32	2257	-1665															
+2015-12	Données définitives	Grand-Est	10730	8742	807	202	4	600	512	590	16	60	4132	6480															
+2015-12	Données définitives	Nouvelle-Aquitaine	5059	4452	99		5	93	164	111	94	137	4173	886															
+2015-12	Données définitives	Auvergne-Rhône-Alpes	10027	7878	256	5	41	209	1698	69	33	89	6269	3304															
+2015-12	Données définitives	Bourgogne-Franche-Comté	253		82	0	0	82	57	87	8	16	2048	-1796															
+2015-12	Données définitives	Bretagne	428		100		0	100	46	250	5	26	2041	-1617															
+2015-12	Données définitives	Centre-Val de Loire	8196	7900	52		0	52	1	195	8	37	1801	6395															
+2015-12	Données définitives	France	51764	40288	4152	773	385	2993	3676	2572	306	767	44727	6143	8406	2263	1059	1664	2090	2223	-894								
+2015-12	Données définitives	Ile-de-France	450		333	1	22	310	7	7	1	100	6778	-6327															
+2015-12	Données définitives	Occitanie	2744	1736	42		-4	46	683	144	67	69	3566	-1001															
+2015-12	Données définitives	Normandie	6502	5736	513	223	52	237	8	202	3	37	2539	3963															
+2015-12	Données définitives	Hauts-de-France	5290	3841	591	10	2	578	1	758	3	93	4638	651															
+2015-12	Données définitives	PACA	1376		787	164	125	497	479	3	41	64	3985	-2609															
+2015-12	Données définitives	Pays-de-la-Loire	573		376	166	25	184	1	150	13	31	2536	-1962															
+2016-01	Données définitives	France																			-977								
+2016-02	Données définitives	France																			-1029								
+2016-03	Données définitives	France																			-1124								
+2016-04	Données définitives	France																			211								
+2016-05	Données définitives	France																			1322								
+2016-06	Données définitives	France																			2070								
+2016-07	Données définitives	France																			232								
+2016-08	Données définitives	France																			-463								
+2016-09	Données définitives	France																			-794								
+2016-10	Données définitives	France																			-1272								
+2016-11	Données définitives	France																			-1683								
+2016-12	Données définitives	France																			-1846								
+2017-01	Données définitives	France																			-1465								
+2017-02	Données définitives	France																			-1063								
+2017-03	Données définitives	France																			-581								
+2017-04	Données définitives	France																			417								
+2017-05	Données définitives	France																			854								
+2017-06	Données définitives	France																			-300								
+2017-07	Données définitives	France																			-307								
+2017-08	Données définitives	France																			-120								
+2017-09	Données définitives	France																			-547								
+2017-10	Données définitives	France																			-2195								
+2017-11	Données définitives	France																			-2704								
+2017-12	Données définitives	France																			-2912								
+2018-01	Données définitives	France																			-223								
+2018-02	Données définitives	France																			-2669								
+2018-03	Données définitives	France																			-838								
+2018-04	Données définitives	France																			940								
+2018-05	Données définitives	France																			2642								
+2018-06	Données définitives	France																			2559								
+2018-07	Données définitives	France																			1385								
+2018-08	Données définitives	France																			812								
+2018-09	Données définitives	France																			1430								
+2018-10	Données définitives	France																			573								
+2018-11	Données définitives	France																			-288								
+2018-12	Données définitives	France																			-240								
+2019-01	Données définitives	Grand-Est	11230	8456	1383				601	675	28	83	4929	-6253								-48							
+2019-01	Données définitives	Nouvelle-Aquitaine	5707	4814	205				240	201	97	147	5176	-530															
+2019-01	Données définitives	Aix Marseille	1368		1130				193	11	12	21	1883	515															
+2019-01	Données définitives	Auvergne-Rhône-Alpes	11961	9036	417				2239	134	38	94	7535	-4074								-313							
+2019-01	Données définitives	Bourgogne-Franche-Comté	381		126				99	123	9	22	2363	1989								-5							
+2019-01	Données définitives	Bordeaux	40		25						1	13	638	597															
+2019-01	Données définitives	Bretagne	415		199				46	132	7	29	2564	2154								-5							
+2019-01	Données définitives	Brest	43		38							5	127	84															
+2019-01	Données définitives	Clermont Ferrand	10		10						0		271	251															
+2019-01	Données définitives	Centre-Val de Loire	8034	7662	85				5	231	9	40	2191	-5842															
+2019-01	Données définitives	Dijon	25		21					0	0	3	90	65															
+2019-01	Données définitives	Strasbourg	60		0				56		0	4	357	296															
+2019-01	Données définitives	France	55734	40157	6302	411	114	5776	4958	3055	417	842	54905	-130	3599	2596	-1057	-133	-890	174	-2594	-522							
+2019-01	Données définitives	Grenoble	97		27				69		0	1	408	310															
+2019-01	Données définitives	Grand Lyon	145		71				69		0	3	778	632															
+2019-01	Données définitives	Nancy	55		52				1			2	164	108															
+2019-01	Données définitives	Grand Paris	283		256					0	0	27	4393	4110															
+2019-01	Données définitives	Ile-de-France	520		388				6	10	2	112	8169	7648															
+2019-01	Données définitives	Occitanie	3373	1899	67				799	443	98	66	4585	1355								-144							
+2019-01	Données définitives	Lille	96		82						0	13	767	671															
+2019-01	Données définitives	Metz	0		0				0		0	0	6	6															
+2019-01	Données définitives	Montpellier	13		10				0		0	2	329	315															
+2019-01	Données définitives	Rouen	105		83							21	374	269															
+2019-01	Données définitives	Nantes	53		52						0	1	446	393															
+2019-01	Données définitives	Nice	32		0				29		0	1	600	568															
+2019-01	Données définitives	Normandie	4816	4253	362				10	145	4	40	3111	-1704															
+2019-01	Données définitives	Hauts-de-France	6309	4035	1379				1	791	4	97	5400	-909								0							
+2019-01	Données définitives	Orléans	29		17						0	12	197	167															
+2019-01	Données définitives	PACA	2202		1167				846	17	97	72	4662	2465								-4							
+2019-01	Données définitives	Pays-de-la-Loire	722	0	518				2	146	18	35	3091	2367															
+2019-01	Données définitives	Rennes	33		32							1	315	281															
+2019-01	Données définitives	Saint Etienne	21		18						0	2	350	329															
+2019-01	Données définitives	Toulouse	17		13				2		0	0	487	470															
+2019-01	Données définitives	Toulon	10								0	9	225	212															
+2019-01	Données définitives	Tours	21		16					0	0	4	144	122															
+2019-02	Données définitives	Grand-Est	9081	6838	991				534	573	64	78	4178	-4862								-41							
+2019-02	Données définitives	Nouvelle-Aquitaine	5409	4345	173				367	172	217	133	4060	-1349															
+2019-02	Données définitives	Aix Marseille	972		776				152	4	15	23	1551	578															
+2019-02	Données définitives	Auvergne-Rhône-Alpes	10882	8160	267				2191	101	78	83	6154	-4434								-259							
+2019-02	Données définitives	Bourgogne-Franche-Comté	395		115				97	129	23	30	1978	1590								-5							
+2019-02	Données définitives	Bordeaux	36		22						2	11	478	441															
+2019-02	Données définitives	Bretagne	430		175				48	159	14	32	2130	1705								-4							
+2019-02	Données définitives	Brest	39		35							4	105	66															
+2019-02	Données définitives	Clermont Ferrand	9		8						0		209	191															
+2019-02	Données définitives	Centre-Val de Loire	7987	7674	57				11	184	21	36	1758	-6228															
+2019-02	Données définitives	Dijon	22		19					0	0	3	73	50															
+2019-02	Données définitives	Strasbourg	54		0				50		0	4	297	242															
+2019-02	Données définitives	France	50064	36089	4801	220	98	4481	4990	2627	780	775	48899	-113	5699	927	-1313	-946	-1472	-558	-736	-447							
+2019-02	Données définitives	Grenoble	105		12				91		0	1	345	240															
+2019-02	Données définitives	Grand Lyon	153		67				81		1	3	549	396															
+2019-02	Données définitives	Nancy	52		49				0			2	121	68															
+2019-02	Données définitives	Grand Paris	205		186					0	0	19	3586	3380															
+2019-02	Données définitives	Ile-de-France	418		298				6	9	5	99	6694	6275															
+2019-02	Données définitives	Occitanie	2681	1258	59				882	251	166	63	3571	1022								-131							
+2019-02	Données définitives	Lille	70		63						0	7	634	563															
+2019-02	Données définitives	Metz	1		0				0		0	1	5	4															
+2019-02	Données définitives	Montpellier	12		9				0		1	2	249	236															
+2019-02	Données définitives	Rouen	83		70							12	313	230															
+2019-02	Données définitives	Nantes	46		45						0	0	364	317															
+2019-02	Données définitives	Nice	30		0				27		0	1	527	497															
+2019-02	Données définitives	Normandie	5117	4477	435				12	151	10	29	2605	-2512															
+2019-02	Données définitives	Hauts-de-France	5238	3335	1072				1	734	9	84	4529	-708								0							
+2019-02	Données définitives	Orléans	19		11						0	7	153	134															
+2019-02	Données définitives	PACA	1807		810				788	6	129	72	3786	1984								-4							
+2019-02	Données définitives	Pays-de-la-Loire	567	0	343				2	152	36	31	2560	1993															
+2019-02	Données définitives	Rennes	34		28							5	260	226															
+2019-02	Données définitives	Saint Etienne	19		16						0	2	269	249															
+2019-02	Données définitives	Toulouse	18		11				4		1	1	366	348															
+2019-02	Données définitives	Toulon	8								1	7	178	168															
+2019-02	Données définitives	Tours	17		13					0	0	4	97	79															
+2019-03	Données définitives	Grand-Est	9402	6889	523				725	1090	85	88	4182	-5166								-53							
+2019-03	Données définitives	Nouvelle-Aquitaine	5414	4167	153				382	251	310	149	3920	-1493															
+2019-03	Données définitives	Aix Marseille	556		427				76	7	24	21	1417	860															
+2019-03	Données définitives	Auvergne-Rhône-Alpes	10380	7488	171				2358	158	111	91	5997	-3974								-367							
+2019-03	Données définitives	Bourgogne-Franche-Comté	523		100				119	236	32	35	1956	1443								-5							
+2019-03	Données définitives	Bordeaux	33		20						4	9	455	421															
+2019-03	Données définitives	Bretagne	540		185				44	254	20	35	2116	1580								-4							
+2019-03	Données définitives	Brest	41		37							4	107	65															
+2019-03	Données définitives	Clermont Ferrand	10		9						0		197	177															
+2019-03	Données définitives	Centre-Val de Loire	7691	7221	60				9	329	29	40	1724	-5967															
+2019-03	Données définitives	Dijon	24		21					0	0	3	73	48															
+2019-03	Données définitives	Strasbourg	78		0				74		0	4	309	230															
+2019-03	Données définitives	France	50322	35497	3276	16	90	3169	5152	4425	1108	862	48856	-114	6505	649	-1453	-1217	-1463	-740	-300	-567							
+2019-03	Données définitives	Grenoble	87		8				77		0	1	345	258															
+2019-03	Données définitives	Grand Lyon	147		58				83		2	2	581	433															
+2019-03	Données définitives	Nancy	46		42				1			2	125	79															
+2019-03	Données définitives	Grand Paris	183		155					0	0	26	3515	3332															
+2019-03	Données définitives	Ile-de-France	404		265				7	19	8	104	6477	6072															
+2019-03	Données définitives	Occitanie	2662	1125	58				786	380	239	72	3274	739								-128							
+2019-03	Données définitives	Lille	82		67						0	14	639	556															
+2019-03	Données définitives	Metz	1		0				0		0	1	5	4															
+2019-03	Données définitives	Montpellier	11		7				0		1	2	223	211															
+2019-03	Données définitives	Rouen	80		59							21	316	235															
+2019-03	Données définitives	Nantes	47		45						0	0	355	308															
+2019-03	Données définitives	Nice	30		0				28		0	0	516	486															
+2019-03	Données définitives	Normandie	5981	5369	311				12	236	13	38	2597	-3384															
+2019-03	Données définitives	Hauts-de-France	5309	3236	755				1	1208	13	94	4629	-679								0							
+2019-03	Données définitives	Orléans	21		12						0	9	153	131															
+2019-03	Données définitives	PACA	1389		463				648	10	189	76	3459	2078								-8							
+2019-03	Données définitives	Pays-de-la-Loire	568	0	226				3	250	52	36	2528	1959															
+2019-03	Données définitives	Rennes	39		32							7	254	213															
+2019-03	Données définitives	Saint Etienne	19		16						0	2	249	229															
+2019-03	Données définitives	Toulouse	12		5				3		1	1	344	331															
+2019-03	Données définitives	Toulon	12								1	10	160	146															
+2019-03	Données définitives	Tours	15		10					0	0	4	118	102															
+2019-04	Données définitives	Grand-Est	7917	6027	590				620	501	96	81	3711	-4164								-42							
+2019-04	Données définitives	Nouvelle-Aquitaine	4608	3713	9				306	130	314	134	3441	-1166															
+2019-04	Données définitives	Aix Marseille	541		417				85	6	22	8	1354	812															
+2019-04	Données définitives	Auvergne-Rhône-Alpes	8233	5920	54				1945	119	114	80	5228	-2704								-297							
+2019-04	Données définitives	Bourgogne-Franche-Comté	300		43				72	115	34	34	1701	1408								-6							
+2019-04	Données définitives	Bordeaux	19		1						4	14	385	366															
+2019-04	Données définitives	Bretagne	243		2				45	136	24	34	1858	1619								-4							
+2019-04	Données définitives	Brest	4		0							3	86	82															
+2019-04	Données définitives	Clermont Ferrand	0		0						0		179	174															
+2019-04	Données définitives	Centre-Val de Loire	6815	6563	0				3	169	35	43	1436	-5378															
+2019-04	Données définitives	Dijon	3		0					0	0	3	58	55															
+2019-04	Données définitives	Strasbourg	62		0				59		0	2	274	212															
+2019-04	Données définitives	France	42563	31756	2124	28	89	2006	4485	2318	1121	756	41409	-46	4646	1042	-711	-598	-1003	-115	300	-396							
+2019-04	Données définitives	Grenoble	63		0				61		0	1	293	230															
+2019-04	Données définitives	Grand Lyon	85		5				71		3	3	478	393															
+2019-04	Données définitives	Nancy	12		8				0			2	109	97															
+2019-04	Données définitives	Grand Paris	21		0					0	0	20	3025	3004															
+2019-04	Données définitives	Ile-de-France	111		1				7	9	9	83	5531	5419															
+2019-04	Données définitives	Occitanie	3123	1729	0				782	324	228	58	3004	-76								-42							
+2019-04	Données définitives	Lille	42		27						0	14	538	495															
+2019-04	Données définitives	Metz	1		0				0		0	1	3	2															
+2019-04	Données définitives	Montpellier	4		0				0		1	2	207	203															
+2019-04	Données définitives	Rouen	57		41							16	271	212															
+2019-04	Données définitives	Nantes	1		0						0	0	313	312															
+2019-04	Données définitives	Nice	47		0				44		0	1	434	387															
+2019-04	Données définitives	Normandie	5579	5184	223				11	111	17	30	2265	-3313															
+2019-04	Données définitives	Hauts-de-France	3894	2617	623				1	551	15	84	4033	139								0							
+2019-04	Données définitives	Orléans	13		0						0	13	127	113															
+2019-04	Données définitives	PACA	1281		418				622	9	171	58	3233	1955								-3							
+2019-04	Données définitives	Pays-de-la-Loire	391	0	156				2	138	59	34	2193	1802															
+2019-04	Données définitives	Rennes	7		0							7	222	214															
+2019-04	Données définitives	Saint Etienne	2		0						0	2	249	246															
+2019-04	Données définitives	Toulouse	7		0				4		1	1	308	300															
+2019-04	Données définitives	Toulon	6								1	4	135	129															
+2019-04	Données définitives	Tours	4		0					0	0	4	118	114															
+2019-05	Données définitives	Grand-Est	6945	4948	532				821	449	110	83	3578	-3319								-46							
+2019-05	Données définitives	Nouvelle-Aquitaine	5050	4056	17				333	123	380	139	3204	-1846															
+2019-05	Données définitives	Aix Marseille	664		514				93	8	28	20	1273	609															
+2019-05	Données définitives	Auvergne-Rhône-Alpes	9409	6544	43				2450	137	139	94	5000	-4026								-337							
+2019-05	Données définitives	Bourgogne-Franche-Comté	280		19				70	122	42	26	1652	1377								-3							
+2019-05	Données définitives	Bordeaux	21		3						5	13	348	326															
+2019-05	Données définitives	Bretagne	221		0				47	105	30	36	1639	1423								-5							
+2019-05	Données définitives	Brest	4		0							4	76	72															
+2019-05	Données définitives	Clermont Ferrand	0		0						0		169	159															
+2019-05	Données définitives	Centre-Val de Loire	6623	6370	0				4	162	39	47	1328	-5294															
+2019-05	Données définitives	Dijon	1		0					0	0	1	52	50															
+2019-05	Données définitives	Strasbourg	80		0				79		0	1	264	184															
+2019-05	Données définitives	France	43501	31668	1935	7	66	1861	5493	2207	1372	824	42416	-92	7182	237	-1208	-698	-1454	-945	2131	-597							
+2019-05	Données définitives	Grenoble	94		3				90		0	0	295	200															
+2019-05	Données définitives	Grand Lyon	86		4				71		4	5	503	416															
+2019-05	Données définitives	Nancy	3		0				0			2	95	92															
+2019-05	Données définitives	Grand Paris	22		-1					0	0	23	2907	2885															
+2019-05	Données définitives	Ile-de-France	125		0				7	10	11	95	5309	5184															
+2019-05	Données définitives	Occitanie	3254	1628	0				898	376	288	62	2643	-407								-202							
+2019-05	Données définitives	Lille	20		12						0	7	517	497															
+2019-05	Données définitives	Metz	1		0				0		0	0	2	1															
+2019-05	Données définitives	Montpellier	5		0				0		2	2	185	180															
+2019-05	Données définitives	Rouen	48		27							21	249	200															
+2019-05	Données définitives	Nantes	1		0						1	0	284	283															
+2019-05	Données définitives	Nice	88		0				85		1	2	394	306															
+2019-05	Données définitives	Normandie	5998	5629	207				10	92	21	37	2115	-3883															
+2019-05	Données définitives	Hauts-de-France	3500	2491	414				1	486	20	87	3886	385								0							
+2019-05	Données définitives	Orléans	15		0						0	15	113	98															
+2019-05	Données définitives	PACA	1554		515				734	11	213	79	2944	1390								0							
+2019-05	Données définitives	Pays-de-la-Loire	424	0	183				1	129	73	36	1969	1544															
+2019-05	Données définitives	Rennes	8		0							8	195	185															
+2019-05	Données définitives	Saint Etienne	2		0						0	2	235	232															
+2019-05	Données définitives	Toulouse	8		0				4		2	1	280	272															
+2019-05	Données définitives	Toulon	10								2	8	136	125															
+2019-05	Données définitives	Tours	4		0					0	0	4	141	137															
+2019-06	Données définitives	Grand-Est	6335	4395	427				908	407	116	78	3254	-3036								-44							
+2019-06	Données définitives	Nouvelle-Aquitaine	4760	3896	18				223	108	399	114	2950	-1810															
+2019-06	Données définitives	Aix Marseille	512		398				64	3	29	16	1250	738															
+2019-06	Données définitives	Auvergne-Rhône-Alpes	9771	6593	82				2792	78	149	74	4530	-4914								-295							
+2019-06	Données définitives	Bourgogne-Franche-Comté	220		17				37	99	45	21	1470	1250								0							
+2019-06	Données définitives	Bordeaux	20		4						5	10	318	298															
+2019-06	Données définitives	Bretagne	207		1				47	95	30	32	1486	1286								-6							
+2019-06	Données définitives	Brest	3		0							3	68	64															
+2019-06	Données définitives	Clermont Ferrand	0		0						0		152	143															
+2019-06	Données définitives	Centre-Val de Loire	5737	5509	0				2	140	42	42	1209	-4527															
+2019-06	Données définitives	Dijon	3		0					0	0	3	41	38															
+2019-06	Données définitives	Strasbourg	94		0				90		0	4	254	160															
+2019-06	Données définitives	France	40085	28560	1721	14	55	1651	5747	1869	1448	738	39228	-88	7095	321	-909	-577	-1438	-686	2232	-542							
+2019-06	Données définitives	Grenoble	98		9				88		0	0	286	187															
+2019-06	Données définitives	Grand Lyon	95		4				79		4	6	517	422															
+2019-06	Données définitives	Nancy	1		0				0			1	97	96															
+2019-06	Données définitives	Grand Paris	22		0					0	0	22	2650	2627															
+2019-06	Données définitives	Ile-de-France	118		0				4	8	12	90	4774	4655															
+2019-06	Données définitives	Occitanie	2612	1259	0				778	211	303	58	2491	74								-194							
+2019-06	Données définitives	Lille	24		11						0	13	469	444															
+2019-06	Données définitives	Metz	1		0				0		0	1	2	1															
+2019-06	Données définitives	Montpellier	5		0				0		2	2	185	180															
+2019-06	Données définitives	Rouen	49		25							23	225	175															
+2019-06	Données définitives	Nantes	2		0						1	0	262	260															
+2019-06	Données définitives	Nice	106		0				104		1	1	410	303															
+2019-06	Données définitives	Normandie	5484	5158	160				8	95	22	38	1874	-3609															
+2019-06	Données définitives	Hauts-de-France	2887	1748	518				0	511	21	87	3510	623								0							
+2019-06	Données définitives	Orléans	13		0						0	13	94	80															
+2019-06	Données définitives	PACA	1489		399				796	5	225	62	2896	1408								0							
+2019-06	Données définitives	Pays-de-la-Loire	318	0	95				1	106	77	37	1793	1475															
+2019-06	Données définitives	Rennes	6		0							6	174	167															
+2019-06	Données définitives	Saint Etienne	2		0						0	2	211	208															
+2019-06	Données définitives	Toulouse	8		0				4		2	2	265	256															
+2019-06	Données définitives	Toulon	13								2	10	122	109															
+2019-06	Données définitives	Tours	4		0					0	0	4	89	84															
+2019-07	Données définitives	Grand-Est	6566	4418	805				780	355	121	85	3356	-3167								-42							
+2019-07	Données définitives	Nouvelle-Aquitaine	4474	3728	16				73	93	438	124	3238	-1236															
+2019-07	Données définitives	Aix Marseille	724		615				59	3	30	15	1367	642															
+2019-07	Données définitives	Auvergne-Rhône-Alpes	10216	7556	116				2227	65	165	84	4838	-5163								-204							
+2019-07	Données définitives	Bourgogne-Franche-Comté	200		19				16	93	50	20	1519	1319								0							
+2019-07	Données définitives	Bordeaux	22		3						6	13	338	316															
+2019-07	Données définitives	Bretagne	227		1				48	104	34	37	1531	1310								-6							
+2019-07	Données définitives	Brest	3		0							3	67	64															
+2019-07	Données définitives	Clermont Ferrand	0		0						0		162	153															
+2019-07	Données définitives	Centre-Val de Loire	5406	5176	0				0	136	47	45	1320	-4085															
+2019-07	Données définitives	Dijon	3		0					0	0	3	45	41															
+2019-07	Données définitives	Strasbourg	85		0				81		0	4	266	180															
+2019-07	Données définitives	France	40424	29195	2800	73	70	2655	4378	1700	1550	799	39663	-69	6080	886	-1033	-481	-1620	-89	1167	-395							
+2019-07	Données définitives	Grenoble	76		11				63		0	1	301	224															
+2019-07	Données définitives	Grand Lyon	90		4				71		5	7	582	492															
+2019-07	Données définitives	Nancy	27		24				0			2	91	63															
+2019-07	Données définitives	Grand Paris	44		3					0	0	40	2680	2636															
+2019-07	Données définitives	Ile-de-France	155		16				3	9	13	111	4786	4631															
+2019-07	Données définitives	Occitanie	2515	1415	0				502	207	322	67	2951	575								-140							
+2019-07	Données définitives	Lille	14		0						0	14	465	450															
+2019-07	Données définitives	Metz	1		0				0		0	1	30	29															
+2019-07	Données définitives	Montpellier	5		0				0		2	3	219	213															
+2019-07	Données définitives	Rouen	50		40							10	218	166															
+2019-07	Données définitives	Nantes	3		0						2	0	266	262															
+2019-07	Données définitives	Nice	41		0				37		1	2	484	442															
+2019-07	Données définitives	Normandie	4791	4471	182				4	82	24	25	1902	-2889															
+2019-07	Données définitives	Hauts-de-France	3746	2427	768				0	432	22	95	3611	-135								0							
+2019-07	Données définitives	Orléans	15		0						0	15	105	90															
+2019-07	Données définitives	PACA	1535		616				620	4	227	66	3314	1780								-1							
+2019-07	Données définitives	Pays-de-la-Loire	488	0	255				0	114	82	35	1926	1437															
+2019-07	Données définitives	Rennes	9		0							9	181	170															
+2019-07	Données définitives	Saint Etienne	3		0						0	2	234	230															
+2019-07	Données définitives	Toulouse	6		0				2		2	1	295	289															
+2019-07	Données définitives	Toulon	12								2	9	156	144															
+2019-07	Données définitives	Tours	4		0					0	0	4	82	77															
+2019-08	Données définitives	Grand-Est	6824	4948	529				810	331	115	88	3017	-3715								-90							
+2019-08	Données définitives	Nouvelle-Aquitaine	3558	2857	11				61	87	404	134	3024	-533															
+2019-08	Données définitives	Aix Marseille	491		341				56	3	27	61	1316	825															
+2019-08	Données définitives	Auvergne-Rhône-Alpes	9010	6944	70				1689	65	151	89	4292	-4428								-274							
+2019-08	Données définitives	Bourgogne-Franche-Comté	204		30				29	80	45	18	1302	1100								-2							
+2019-08	Données définitives	Bordeaux	23		3						5	13	313	290															
+2019-08	Données définitives	Bretagne	228		1				51	109	29	37	1472	1249								-6							
+2019-08	Données définitives	Brest	3		0							3	64	61															
+2019-08	Données définitives	Clermont Ferrand	0		0						0		145	135															
+2019-08	Données définitives	Centre-Val de Loire	5693	5459	8				0	135	42	47	1221	-4472															
+2019-08	Données définitives	Dijon	2		0					0	0	2	42	40															
+2019-08	Données définitives	Strasbourg	83		0				80		0	3	254	170															
+2019-08	Données définitives	France	37474	27721	2068	29	64	1974	3732	1634	1434	882	36484	-74	5888	778	-964	-600	-1025	-255	1580	-542							
+2019-08	Données définitives	Grenoble	61		9				50		0	1	265	204															
+2019-08	Données définitives	Grand Lyon	87		5				70		4	7	513	425															
+2019-08	Données définitives	Nancy	2		0				0			2	86	83															
+2019-08	Données définitives	Grand Paris	22		0					0	0	22	2413	2390															
+2019-08	Données définitives	Ile-de-France	140		13				2	12	12	100	4221	4080															
+2019-08	Données définitives	Occitanie	2533	1550	0				446	156	307	71	2711	339								-161							
+2019-08	Données définitives	Lille	13		0						0	13	426	412															
+2019-08	Données définitives	Metz	1		0				0		0	1	59	58															
+2019-08	Données définitives	Montpellier	5		0				0		2	2	201	196															
+2019-08	Données définitives	Rouen	56		31							24	205	148															
+2019-08	Données définitives	Nantes	3		0						2	0	241	238															
+2019-08	Données définitives	Nice	26		0				22		1	3	500	473															
+2019-08	Données définitives	Normandie	3972	3605	204				5	93	22	41	1767	-2204															
+2019-08	Données définitives	Hauts-de-France	3592	2353	671				0	451	20	94	3293	-298								0							
+2019-08	Données définitives	Orléans	14		0						0	14	108	93															
+2019-08	Données définitives	PACA	1221		342				542	5	209	121	3187	1972								-6							
+2019-08	Données définitives	Pays-de-la-Loire	400	0	185				0	104	72	37	1734	1333															
+2019-08	Données définitives	Rennes	9		0							9	159	149															
+2019-08	Données définitives	Saint Etienne	3		0						0	2	169	166															
+2019-08	Données définitives	Toulouse	5		0				1		2	1	266	261															
+2019-08	Données définitives	Toulon	14								2	11	153	139															
+2019-08	Données définitives	Tours	5		0					0	0	5	89	84															
+2019-09	Données définitives	Grand-Est	7344	5087	882				611	581	101	78	3245	-4017								-81							
+2019-09	Données définitives	Nouvelle-Aquitaine	4275	3563	11				92	138	334	134	2891	-1384															
+2019-09	Données définitives	Aix Marseille	673		578				40	4	23	26	1228	554															
+2019-09	Données définitives	Auvergne-Rhône-Alpes	8429	6886	164				1079	88	128	81	4492	-3588								-330							
+2019-09	Données définitives	Bourgogne-Franche-Comté	270		40				39	135	39	16	1453	1188								-5							
+2019-09	Données définitives	Bordeaux	18		3						4	10	313	295															
+2019-09	Données définitives	Bretagne	277		1				47	169	24	34	1482	1211								-5							
+2019-09	Données définitives	Brest	2		0							2	70	67															
+2019-09	Données définitives	Clermont Ferrand	0		0						0		150	144															
+2019-09	Données définitives	Centre-Val de Loire	5273	4962	9				0	217	35	47	1238	-4034															
+2019-09	Données définitives	Dijon	0		0					0	0	0	41	41															
+2019-09	Données définitives	Strasbourg	61		0				59		0	2	249	187															
+2019-09	Données définitives	France	37484	27533	2788	30	60	2696	2567	2616	1203	776	36471	-69	5378	1013	-825	-410	-1237	-819	450	-541							
+2019-09	Données définitives	Grenoble	50		9				40		0	0	303	253															
+2019-09	Données définitives	Grand Lyon	57		5				41		3	6	523	466															
+2019-09	Données définitives	Nancy	57		55				0			1	91	34															
+2019-09	Données définitives	Grand Paris	21		0					0	0	21	2622	2600															
+2019-09	Données définitives	Ile-de-France	145		17				3	19	11	94	4563	4417															
+2019-09	Données définitives	Occitanie	2491	1643	0				303	236	254	53	2555	175								-111							
+2019-09	Données définitives	Lille	14		0						0	14	468	454															
+2019-09	Données définitives	Metz	0		0				0		0	0	120	119															
+2019-09	Données définitives	Montpellier	4		0				0		1	2	184	179															
+2019-09	Données définitives	Rouen	55		35							20	220	164															
+2019-09	Données définitives	Nantes	2		0						2	0	255	252															
+2019-09	Données définitives	Nice	19		0				16		0	2	463	444															
+2019-09	Données définitives	Normandie	3496	3120	172				5	143	17	36	1851	-1645															
+2019-09	Données définitives	Hauts-de-France	3751	2268	677				0	704	16	84	3547	-204								0							
+2019-09	Données définitives	Orléans	16		0						0	16	107	90															
+2019-09	Données définitives	PACA	1167		579				321	6	177	81	2847	1687								-7							
+2019-09	Données définitives	Pays-de-la-Loire	498	0	230				0	174	61	32	1800	1301															
+2019-09	Données définitives	Rennes	7		0							7	175	167															
+2019-09	Données définitives	Saint Etienne	3		0						0	2	198	195															
+2019-09	Données définitives	Toulouse	6		0				1		2	2	267	261															
+2019-09	Données définitives	Toulon	10								1	8	131	121															
+2019-09	Données définitives	Tours	5		0					0	0	5	130	125															
+2019-10	Données définitives	Grand-Est	10357	7780	889				714	809	80	83	3781	-6503								-72							
+2019-10	Données définitives	Nouvelle-Aquitaine	4797	4134	42				128	164	205	122	3206	-1590															
+2019-10	Données définitives	Aix Marseille	704		614				59	5	15	9	1263	559															
+2019-10	Données définitives	Auvergne-Rhône-Alpes	9584	7262	229				1798	137	80	77	4878	-4289								-383							
+2019-10	Données définitives	Bourgogne-Franche-Comté	333		34				75	184	21	17	1653	1328								-4							
+2019-10	Données définitives	Bordeaux	15		4						2	9	362	346															
+2019-10	Données définitives	Bretagne	285		1				50	186	14	32	1783	1503								-4							
+2019-10	Données définitives	Brest	2		0							2	88	85															
+2019-10	Données définitives	Clermont Ferrand	0		0						0		171	167															
+2019-10	Données définitives	Centre-Val de Loire	5088	4746	10				1	266	19	43	1375	-3712															
+2019-10	Données définitives	Dijon	0		0					0	0	0	50	49															
+2019-10	Données définitives	Strasbourg	74		0				70		0	3	280	205															
+2019-10	Données définitives	France	41013	29162	3144	33	54	3056	3786	3364	780	774	39977	-90	4955	1244	-628	-559	-1232	-776	-183	-511							
+2019-10	Données définitives	Grenoble	54		9				44		0	0	307	252															
+2019-10	Données définitives	Grand Lyon	76		4				64		1	5	536	459															
+2019-10	Données définitives	Nancy	57		54				0			2	116	59															
+2019-10	Données définitives	Grand Paris	29		3					0	0	25	3100	3070															
+2019-10	Données définitives	Ile-de-France	189		51				4	23	7	102	5594	5405															
+2019-10	Données définitives	Occitanie	1916	956	0				429	304	167	59	2615	741								-43							
+2019-10	Données définitives	Lille	15		0						0	14	547	532															
+2019-10	Données définitives	Metz	0		0				0		0	0	128	127															
+2019-10	Données définitives	Montpellier	4		0				0		1	2	186	182															
+2019-10	Données définitives	Rouen	64		43							20	257	193															
+2019-10	Données définitives	Nantes	1		0						1	0	308	306															
+2019-10	Données définitives	Nice	40		0				37		0	2	421	380															
+2019-10	Données définitives	Normandie	2701	2337	115				8	189	10	41	2172	-529															
+2019-10	Données définitives	Hauts-de-France	3890	1946	923				0	918	10	91	4098	207								0							
+2019-10	Données définitives	Orléans	13		0						0	13	111	98															
+2019-10	Données définitives	PACA	1326		615				513	8	125	63	2890	1567								-3							
+2019-10	Données définitives	Pays-de-la-Loire	479	0	229				0	172	36	40	2070	1590															
+2019-10	Données définitives	Rennes	7		0							7	207	199															
+2019-10	Données définitives	Saint Etienne	3		0						0	2	236	233															
+2019-10	Données définitives	Toulouse	5		0				2		1	2	285	279															
+2019-10	Données définitives	Toulon	9								1	8	138	129															
+2019-10	Données définitives	Tours	1		0					0	0	1	153	151															
+2019-11	Données définitives	Grand-Est	10911	8088	1186				702	797	47	89	4239	-6587								-84							
+2019-11	Données définitives	Nouvelle-Aquitaine	5186	4077	138				541	198	106	124	4168	-1018															
+2019-11	Données définitives	Aix Marseille	1133		998				101	5	9	18	1517	384															
+2019-11	Données définitives	Auvergne-Rhône-Alpes	9312	5971	343				2742	122	46	85	5724	-3191								-360							
+2019-11	Données définitives	Bourgogne-Franche-Comté	426		116				91	187	13	18	1906	1486								-3							
+2019-11	Données définitives	Bordeaux	20		20						1	-1	489	469															
+2019-11	Données définitives	Bretagne	459		152				54	209	9	32	2208	1753								-4							
+2019-11	Données définitives	Brest	28		27							1	104	75															
+2019-11	Données définitives	Clermont Ferrand	10		9						0		198	179															
+2019-11	Données définitives	Centre-Val de Loire	5439	5039	57				12	275	12	42	1701	-3738															
+2019-11	Données définitives	Dijon	20		20					0	0	0	66	46															
+2019-11	Données définitives	Strasbourg	72		0				68		0	3	307	235															
+2019-11	Données définitives	France	45733	29133	5606	453	90	5062	6382	3343	458	810	45222	-89	3885	2456	-1000	347	-898	-148	-1119	-605							
+2019-11	Données définitives	Grenoble	94		15				77		0	1	341	247															
+2019-11	Données définitives	Grand Lyon	129		45				78		1	4	672	543															
+2019-11	Données définitives	Nancy	62		59				0			2	139	76															
+2019-11	Données définitives	Grand Paris	237		213					0	0	23	3734	3497															
+2019-11	Données définitives	Ile-de-France	482		347				6	22	4	101	6787	6305															
+2019-11	Données définitives	Occitanie	2633	907	51				1194	306	107	67	3424	941								-151							
+2019-11	Données définitives	Lille	61		49						0	12	644	582															
+2019-11	Données définitives	Metz	0		0				0		0	0	139	138															
+2019-11	Données définitives	Montpellier	10		7				0		0	2	251	241															
+2019-11	Données définitives	Rouen	96		73							22	312	216															
+2019-11	Données définitives	Nantes	30		29						0	0	365	335															
+2019-11	Données définitives	Nice	55		0				54		0	0	472	416															
+2019-11	Données définitives	Normandie	3263	2638	389				14	171	7	42	2621	-642															
+2019-11	Données définitives	Hauts-de-France	4550	2411	1194				1	838	6	98	4607	57								0							
+2019-11	Données définitives	Orléans	13		3						0	9	147	134															
+2019-11	Données définitives	PACA	2120		1024				945	7	73	69	3644	1524								0							
+2019-11	Données définitives	Pays-de-la-Loire	873	0	603				1	206	22	38	2594	1721															
+2019-11	Données définitives	Rennes	24		18							6	257	232															
+2019-11	Données définitives	Saint Etienne	18		15						0	2	269	251															
+2019-11	Données définitives	Toulouse	12		6				4		0	1	365	352															
+2019-11	Données définitives	Toulon	9								0	8	183	172															
+2019-11	Données définitives	Tours	20		16					0	0	4	190	169															
+2019-12	Données définitives	Grand-Est	11383	8509	885				768	1096	29	93	4471	-6818								-92							
+2019-12	Données définitives	Nouvelle-Aquitaine	5421	3965	141				826	261	101	125	4468	-952															
+2019-12	Données définitives	Aix Marseille	771		601				134	6	9	19	1554	782															
+2019-12	Données définitives	Auvergne-Rhône-Alpes	11142	7464	278				3094	162	46	95	6166	-4532								-423							
+2019-12	Données définitives	Bourgogne-Franche-Comté	562		118				146	261	12	23	2006	1448								-1							
+2019-12	Données définitives	Bordeaux	22		22						1	-1	515	492															
+2019-12	Données définitives	Bretagne	563		184				58	274	8	36	2409	1852								-5							
+2019-12	Données définitives	Brest	40		36							4	118	78															
+2019-12	Données définitives	Clermont Ferrand	11		11						0		224	204															
+2019-12	Données définitives	Centre-Val de Loire	5739	5239	69				32	341	12	43	1845	-3894															
+2019-12	Données définitives	Dijon	21		21					0	0	0	78	57															
+2019-12	Données définitives	Strasbourg	82		0				78		0	4	321	238															
+2019-12	Données définitives	France	51017	32985	4354	239	91	4022	7744	4655	426	850	50107	-79	5233	1875	-1029	504	-1273	-717	-216	-721							
+2019-12	Données définitives	Grenoble	104		11				91		0	1	345	240															
+2019-12	Données définitives	Grand Lyon	139		47				86		0	4	717	577															
+2019-12	Données définitives	Nancy	48		44				1			2	137	88															
+2019-12	Données définitives	Grand Paris	169		153					0	0	16	3859	3689															
+2019-12	Données définitives	Ile-de-France	424		288				3	29	4	98	7268	6844															
+2019-12	Données définitives	Occitanie	3794	1578	67				1608	375	97	68	3598	-1								-194							
+2019-12	Données définitives	Lille	75		60						0	14	695	619															
+2019-12	Données définitives	Metz	1		0				0		0	1	139	138															
+2019-12	Données définitives	Montpellier	13		10				0		0	2	272	258															
+2019-12	Données définitives	Rouen	85		61							23	330	245															
+2019-12	Données définitives	Nantes	49		47						0	0	392	343															
+2019-12	Données définitives	Nice	65		0				63		0	0	506	441															
+2019-12	Données définitives	Normandie	3702	3013	362				12	262	6	44	2842	-859															
+2019-12	Données définitives	Hauts-de-France	5540	3214	911				1	1306	5	100	4834	-706								0							
+2019-12	Données définitives	Orléans	21		9						0	11	142	121															
+2019-12	Données définitives	PACA	1910		639				1105	9	78	77	3896	1988								-2							
+2019-12	Données définitives	Pays-de-la-Loire	747	0	406				2	275	21	40	2809	2062															
+2019-12	Données définitives	Rennes	35		29							6	270	234															
+2019-12	Données définitives	Saint Etienne	21		18						0	2	265	243															
+2019-12	Données définitives	Toulouse	18		13				3		0	1	382	364															
+2019-12	Données définitives	Toulon	10								0	9	176	164															
+2019-12	Données définitives	Tours	23		18					0	0	4	197	174															
+2020-01	Données définitives	Grand-Est	11371	8643	1123				567	928	20	88	4598	-6683								-88							
+2020-01	Données définitives	Nouvelle-Aquitaine	5379	4179	163				505	283	130	118	4669	-710															
+2020-01	Données définitives	Aix Marseille	1193		897				262	4	9	19	1678	484															
+2020-01	Données définitives	Auvergne-Rhône-Alpes	11590	8382	347				2568	140	51	98	6764	-4473								-303							
+2020-01	Données définitives	Bourgogne-Franche-Comté	474		126				93	208	14	32	2160	1691								-3							
+2020-01	Données définitives	Bordeaux	39		26						1	11	557	518															
+2020-01	Données définitives	Bretagne	547		187				59	252	8	38	2459	1919								-7							
+2020-01	Données définitives	Brest	43		38							4	123	80															
+2020-01	Données définitives	Clermont Ferrand	11		11						0		249	228															
+2020-01	Données définitives	Centre-Val de Loire	7440	6951	82				17	332	14	43	1972	-5468															
+2020-01	Données définitives	Dijon	21		21					0	0	0	91	70															
+2020-01	Données définitives	Strasbourg	53		0				50		0	3	341	287															
+2020-01	Données définitives	France	54465	37352	5364	157	0	5207	6291	4160	461	833	53403	-141	5352	1479	-866	-481	-1404	-763	-356	-528							
+2020-01	Données définitives	Grenoble	100		13				85		0	1	369	268															
+2020-01	Données définitives	Grand Lyon	136		49				82		1	3	768	631															
+2020-01	Données définitives	Nancy	51		47				0			2	141	89															
+2020-01	Données définitives	Grand Paris	145		129					0	0	16	4075	3929															
+2020-01	Données définitives	Ile-de-France	395		259				4	26	3	101	7616	7220															
+2020-01	Données définitives	Occitanie	3622	1812	68				1245	320	107	69	4031	521								-119							
+2020-01	Données définitives	Lille	72		56						0	15	773	701															
+2020-01	Données définitives	Metz	1		0				0		0	1	157	156															
+2020-01	Données définitives	Montpellier	14		10				0		0	2	300	286															
+2020-01	Données définitives	Rouen	101		78							22	345	244															
+2020-01	Données définitives	Nantes	53		52						0	0	416	362															
+2020-01	Données définitives	Nice	52		0				50		0	1	546	493															
+2020-01	Données définitives	Normandie	4913	4276	357				14	215	6	43	2963	-1949															
+2020-01	Données définitives	Hauts-de-France	5679	3105	1295				1	1172	5	99	5080	-599								0							
+2020-01	Données définitives	Orléans	29		17						0	11	169	139															
+2020-01	Données définitives	PACA	2255		935				1160	7	77	75	4203	1953								-5							
+2020-01	Données définitives	Pays-de-la-Loire	828	0	489				3	273	22	38	2890	2061															
+2020-01	Données définitives	Rennes	35		29							6	281	245															
+2020-01	Données définitives	Saint Etienne	21		18						0	2	295	273															
+2020-01	Données définitives	Toulouse	19		13				3		0	1	421	401															
+2020-01	Données définitives	Toulon	10								0	9	207	195															
+2020-01	Données définitives	Tours	23		18					0	0	4	211	188															
+2020-02	Données définitives	Grand-Est	9055	6104	696				734	1407	31	81	4088	-4894								-72							
+2020-02	Données définitives	Nouvelle-Aquitaine	5637	4411	153				436	309	192	133	3977	-1660															
+2020-02	Données définitives	Aix Marseille	842		558				246	5	16	15	1482	640															
+2020-02	Données définitives	Auvergne-Rhône-Alpes	10834	7646	240				2613	169	75	87	5977	-4393								-419							
+2020-02	Données définitives	Bourgogne-Franche-Comté	587		108				130	294	19	33	1909	1329								-5							
+2020-02	Données définitives	Bordeaux	39		24						2	12	465	426															
+2020-02	Données définitives	Bretagne	631		185				57	339	12	35	2178	1552								-5							
+2020-02	Données définitives	Brest	39		35							4	110	70															
+2020-02	Données définitives	Clermont Ferrand	10		10						0		207	188															
+2020-02	Données définitives	Centre-Val de Loire	7129	6505	66				21	476	20	39	1770	-5359															
+2020-02	Données définitives	Dijon	21		19					0	0	1	70	49															
+2020-02	Données définitives	Strasbourg	82		0				79		0	3	299	216															
+2020-02	Données définitives	France	50527	33178	3708	84	0	3623	6283	5889	692	775	49509	-118	6762	474	-1205	-862	-1704	-1314	-1200	-686							
+2020-02	Données définitives	Grenoble	80		9				69		0	1	342	261															
+2020-02	Données définitives	Grand Lyon	143		45				94		2	2	675	531															
+2020-02	Données définitives	Nancy	44		41				1			2	117	72															
+2020-02	Données définitives	Grand Paris	122		115					0	0	6	3534	3411															
+2020-02	Données définitives	Ile-de-France	343		216				1	37	5	81	6490	6146															
+2020-02	Données définitives	Occitanie	3180	1583	63				960	346	163	62	3278	267								-176							
+2020-02	Données définitives	Lille	62		48						0	13	641	578															
+2020-02	Données définitives	Metz	1		0				0		0	1	135	134															
+2020-02	Données définitives	Montpellier	13		10				0		1	2	236	223															
+2020-02	Données définitives	Rouen	82		60							21	311	228															
+2020-02	Données définitives	Nantes	46		45						1	0	356	309															
+2020-02	Données définitives	Nice	46		0				43		0	1	481	434															
+2020-02	Données définitives	Normandie	4754	4074	298				9	322	8	41	2632	-2121															
+2020-02	Données définitives	Hauts-de-France	5604	2852	821				1	1831	7	89	4627	-977								0							
+2020-02	Données définitives	Orléans	18		9						0	9	141	122															
+2020-02	Données définitives	PACA	2051		592				1263	7	122	64	3620	1576								-7							
+2020-02	Données définitives	Pays-de-la-Loire	752	0	336				3	343	32	36	2535	1782															
+2020-02	Données définitives	Rennes	33		27							6	238	205															
+2020-02	Données définitives	Saint Etienne	20		17						0	2	254	233															
+2020-02	Données définitives	Toulouse	17		11				3		1	1	348	330															
+2020-02	Données définitives	Toulon	9								1	8	172	160															
+2020-02	Données définitives	Tours	21		17					0	0	4	181	159															
+2020-03	Données définitives	Grand-Est	6829	4184	626				793	1084	53	88	3806	-2956								-66							
+2020-03	Données définitives	Nouvelle-Aquitaine	5550	4089	134				674	238	270	141	3926	-1623															
+2020-03	Données définitives	Aix Marseille	810		519				240	6	22	21	1421	610															
+2020-03	Données définitives	Auvergne-Rhône-Alpes	9844	6369	228				2935	110	113	88	5458	-4013								-322							
+2020-03	Données définitives	Bourgogne-Franche-Comté	517		114				121	215	31	33	1778	1267								-4							
+2020-03	Données définitives	Bordeaux	32		16						3	12	441	408															
+2020-03	Données définitives	Bretagne	563		190				58	256	20	37	2131	1573								-5							
+2020-03	Données définitives	Brest	42		37							4	108	66															
+2020-03	Données définitives	Clermont Ferrand	11		10						0		193	173															
+2020-03	Données définitives	Centre-Val de Loire	7477	6951	65				22	362	32	42	1667	-5810															
+2020-03	Données définitives	Dijon	23		21					0	0	2	66	42															
+2020-03	Données définitives	Strasbourg	85		0				83		0	2	289	203															
+2020-03	Données définitives	France	47778	30624	3519	36	0	3483	7303	4483	999	847	46821	-111	6511	978	-1341	-408	-1667	-1111	-1003	-558							
+2020-03	Données définitives	Grenoble	118		8				109		0	0	310	191															
+2020-03	Données définitives	Grand Lyon	139		44				88		3	2	605	466															
+2020-03	Données définitives	Nancy	44		40				1			2	117	73															
+2020-03	Données définitives	Grand Paris	192		172					0	0	19	3434	3241															
+2020-03	Données définitives	Ile-de-France	428		283				1	29	9	105	6248	5820															
+2020-03	Données définitives	Occitanie	3737	1716	56				1334	344	220	64	3195	-391								-157							
+2020-03	Données définitives	Lille	71		59						0	12	644	572															
+2020-03	Données définitives	Metz	1		0				0		0	1	119	117															
+2020-03	Données définitives	Montpellier	11		7				0		1	2	229	217															
+2020-03	Données définitives	Rouen	72		52							20	285	212															
+2020-03	Données définitives	Nantes	36		33						2	0	335	299															
+2020-03	Données définitives	Nice	53		0				50		0	1	499	446															
+2020-03	Données définitives	Normandie	4550	3984	271				5	233	15	41	2565	-1985															
+2020-03	Données définitives	Hauts-de-France	5592	3328	814				1	1332	12	102	4445	-1146								0							
+2020-03	Données définitives	Orléans	19		8						0	10	135	116															
+2020-03	Données définitives	PACA	2079		555				1274	9	165	75	3494	1418								-2							
+2020-03	Données définitives	Pays-de-la-Loire	605	0	243				3	265	53	39	2460	1854															
+2020-03	Données définitives	Rennes	35		28							6	224	188															
+2020-03	Données définitives	Saint Etienne	21		18						0	2	245	223															
+2020-03	Données définitives	Toulouse	13		4				5		1	1	325	312															
+2020-03	Données définitives	Toulon	10								1	9	169	157															
+2020-03	Données définitives	Tours	15		10					0	0	4	175	159															
+2020-04	Données définitives	Grand-Est	4858	3578	56				528	534	78	81	2834	-1947								-75							
+2020-04	Données définitives	Nouvelle-Aquitaine	4522	3580	13				320	143	328	136	2836	-1686															
+2020-04	Données définitives	Aix Marseille	230		85				99	1	27	16	1155	925															
+2020-04	Données définitives	Auvergne-Rhône-Alpes	7996	5387	17				2290	77	142	80	4198	-3476								-316							
+2020-04	Données définitives	Bourgogne-Franche-Comté	248		20				35	116	43	32	1365	1123								-6							
+2020-04	Données définitives	Bordeaux	16		3						4	9	304	287															
+2020-04	Données définitives	Bretagne	240		1				48	127	27	35	1522	1287								-5							
+2020-04	Données définitives	Brest	3		0							3	71	67															
+2020-04	Données définitives	Clermont Ferrand	0		0						0		143	136															
+2020-04	Données définitives	Centre-Val de Loire	6523	6245	1				7	176	45	46	1224	-5298															
+2020-04	Données définitives	Dijon	2		0					0	0	2	32	29															
+2020-04	Données définitives	Strasbourg	49		0				46		0	2	226	176															
+2020-04	Données définitives	France	36709	26823	497	13	0	484	5064	2270	1242	810	35937	-43	6011	642	-1017	-571	-770	-745	-2264	-566							
+2020-04	Données définitives	Grenoble	92		1				91		0	0	247	154															
+2020-04	Données définitives	Grand Lyon	65		3				56		4	1	441	375															
+2020-04	Données définitives	Nancy	5		2				0			2	79	73															
+2020-04	Données définitives	Grand Paris	19		0					0	0	19	2395	2375															
+2020-04	Données définitives	Ile-de-France	135		0				5	15	13	101	4306	4170															
+2020-04	Données définitives	Occitanie	2998	1480	1				973	224	257	62	2459	-390								-153							
+2020-04	Données définitives	Lille	32		20						0	12	469	437															
+2020-04	Données définitives	Metz	1		0				0		0	1	87	86															
+2020-04	Données définitives	Montpellier	4		0				0		1	2	174	170															
+2020-04	Données définitives	Rouen	21		0							20	193	171															
+2020-04	Données définitives	Nantes	3		0						3	0	254	251															
+2020-04	Données définitives	Nice	75		0				73		0	1	371	295															
+2020-04	Données définitives	Normandie	3780	3465	139				12	101	22	40	1849	-1930															
+2020-04	Données définitives	Hauts-de-France	4019	3085	213				1	609	19	89	3311	-707								0							
+2020-04	Données définitives	Orléans	14		0						0	14	100	86															
+2020-04	Données définitives	PACA	1097		86				744	2	194	69	2723	1634								-8							
+2020-04	Données définitives	Pays-de-la-Loire	248	0	-4				2	140	70	38	1776	1528															
+2020-04	Données définitives	Rennes	7		0							7	160	152															
+2020-04	Données définitives	Saint Etienne	3		0						0	2	187	184															
+2020-04	Données définitives	Toulouse	7		0				4		2	1	238	230															
+2020-04	Données définitives	Toulon	11								2	9	140	129															
+2020-04	Données définitives	Tours	4		0					0	0	4	126	121															
+2020-05	Données définitives	Grand-Est	4774	3152	236				679	531	87	86	2974	-1739								-59							
+2020-05	Données définitives	Nouvelle-Aquitaine	3589	2417	12				393	202	431	132	2827	-762															
+2020-05	Données définitives	Aix Marseille	411		196				160	5	31	17	1108	697															
+2020-05	Données définitives	Auvergne-Rhône-Alpes	8678	5388	32				2887	113	166	90	4201	-4063								-357							
+2020-05	Données définitives	Bourgogne-Franche-Comté	295		32				40	140	47	34	1440	1151								-6							
+2020-05	Données définitives	Bordeaux	19		3						5	10	297	278															
+2020-05	Données définitives	Bretagne	274		1				46	151	36	39	1443	1174								-5							
+2020-05	Données définitives	Brest	3		0							3	68	64															
+2020-05	Données définitives	Clermont Ferrand	0		0						0		139	129															
+2020-05	Données définitives	Centre-Val de Loire	6256	5921	1				15	213	54	49	1192	-5063															
+2020-05	Données définitives	Dijon	2		0					0	0	2	34	32															
+2020-05	Données définitives	Strasbourg	69		0				66		0	3	238	169															
+2020-05	Données définitives	France	37518	24714	1131	54	0	1076	6669	2650	1524	827	36406	-71	6299	506	-944	-817	-1052	-707	-2272	-617							
+2020-05	Données définitives	Grenoble	87		0				87		0	0	266	178															
+2020-05	Données définitives	Grand Lyon	94		3				80		5	4	475	380															
+2020-05	Données définitives	Nancy	2		0				0			2	91	89															
+2020-05	Données définitives	Grand Paris	14		-1					0	0	15	2451	2436															
+2020-05	Données définitives	Ile-de-France	137		0				5	17	16	98	4424	4286															
+2020-05	Données définitives	Occitanie	3417	1634	0				1154	247	320	60	2289	-954								-177							
+2020-05	Données définitives	Lille	13		1						0	11	490	476															
+2020-05	Données définitives	Metz	1		0				0		0	1	98	97															
+2020-05	Données définitives	Montpellier	4		0				0		2	2	164	159															
+2020-05	Données définitives	Rouen	21		1							19	208	185															
+2020-05	Données définitives	Nantes	4		0						4	0	253	248															
+2020-05	Données définitives	Nice	114		0				112		0	0	341	226															
+2020-05	Données définitives	Normandie	3413	3064	146				12	121	28	40	1806	-1606															
+2020-05	Données définitives	Hauts-de-France	4356	3134	383				1	725	23	87	3392	-964								0							
+2020-05	Données définitives	Orléans	15		0						0	15	91	76															
+2020-05	Données définitives	PACA	1773		196				1272	7	222	74	2568	805								-9							
+2020-05	Données définitives	Pays-de-la-Loire	450	0	142				1	177	89	39	1794	1343															
+2020-05	Données définitives	Rennes	9		0							9	156	146															
+2020-05	Données définitives	Saint Etienne	3		0						0	3	192	188															
+2020-05	Données définitives	Toulouse	9		0				4		2	1	247	238															
+2020-05	Données définitives	Toulon	13								2	11	57	44															
+2020-05	Données définitives	Tours	5		0					0	0	5	126	121															
+2020-06	Données définitives	Grand-Est	5999	4052	655				699	425	77	88	3071	-2881								-46							
+2020-06	Données définitives	Nouvelle-Aquitaine	2633	1710	10				238	128	412	132	2832	199															
+2020-06	Données définitives	Aix Marseille	805		550				203	5	34	9	1138	333															
+2020-06	Données définitives	Auvergne-Rhône-Alpes	8349	4978	201				2849	77	155	85	4275	-3794								-239							
+2020-06	Données définitives	Bourgogne-Franche-Comté	253		41				41	94	42	32	1373	1127								-6							
+2020-06	Données définitives	Bordeaux	16		2						5	8	295	278															
+2020-06	Données définitives	Bretagne	220		7				44	106	30	32	1455	1240								-5							
+2020-06	Données définitives	Brest	2		0							2	66	64															
+2020-06	Données définitives	Clermont Ferrand	0		0						0		145	135															
+2020-06	Données définitives	Centre-Val de Loire	3771	3518	1				4	157	46	43	1153	-2618															
+2020-06	Données définitives	Dijon	3		0					0	0	3	57	54															
+2020-06	Données définitives	Strasbourg	76		0				71		0	4	246	170															
+2020-06	Données définitives	France	34350	21334	2362	11	0	2351	6375	2039	1447	789	33624	-68	4017	1119	-570	-483	-360	-13	-1468	-413							
+2020-06	Données définitives	Grenoble	86		3				83		0	0	259	172															
+2020-06	Données définitives	Grand Lyon	92		2				77		5	7	502	409															
+2020-06	Données définitives	Nancy	2		0				0			2	87	84															
+2020-06	Données définitives	Grand Paris	48		22					0	0	25	2465	2417															
+2020-06	Données définitives	Ile-de-France	212		73				3	12	14	107	4439	4227															
+2020-06	Données définitives	Occitanie	3272	1685	0				995	230	313	47	2394	-768								-112							
+2020-06	Données définitives	Lille	12		0						0	12	477	464															
+2020-06	Données définitives	Metz	1		0				0		0	1	111	110															
+2020-06	Données définitives	Montpellier	4		0				0		2	2	173	169															
+2020-06	Données définitives	Rouen	31		9							21	208	176															
+2020-06	Données définitives	Nantes	3		0						3	0	254	250															
+2020-06	Données définitives	Nice	108		0				106		1	0	351	243															
+2020-06	Données définitives	Normandie	3310	2999	136				8	99	24	42	1755	-1555															
+2020-06	Données définitives	Hauts-de-France	3589	2391	523				1	566	20	85	3322	-266								0							
+2020-06	Données définitives	Orléans	15		0						0	15	97	81															
+2020-06	Données définitives	PACA	2204		550				1354	8	234	56	2679	479								-4							
+2020-06	Données définitives	Pays-de-la-Loire	462	0	216				0	131	74	38	1752	1290															
+2020-06	Données définitives	Rennes	3		0							3	172	168															
+2020-06	Données définitives	Saint Etienne	2		0						0	2	205	202															
+2020-06	Données définitives	Toulouse	9		0				4		2	2	246	237															
+2020-06	Données définitives	Toulon	9								2	7	67	57															
+2020-06	Données définitives	Tours	5		0					0	0	5	127	121															
+2020-07	Données définitives	Grand-Est	5935	4364	287				683	421	89	90	3217	-2717								0							
+2020-07	Données définitives	Nouvelle-Aquitaine	3027	2182	32				92	109	478	131	3177	150															
+2020-07	Données définitives	Aix Marseille	782		655				84	4	36	2	1254	472															
+2020-07	Données définitives	Auvergne-Rhône-Alpes	8360	5463	240				2316	72	185	82	4527	-3684								-133							
+2020-07	Données définitives	Bourgogne-Franche-Comté	224		23				24	86	51	37	1428	1209								-5							
+2020-07	Données définitives	Bordeaux	19		3						6	9	314	295															
+2020-07	Données définitives	Bretagne	248		18				48	107	34	38	1522	1282								-7							
+2020-07	Données définitives	Brest	2		0							2	67	65															
+2020-07	Données définitives	Clermont Ferrand	0		0						0		159	149															
+2020-07	Données définitives	Centre-Val de Loire	4132	3870	0				1	155	58	47	1260	-2871															
+2020-07	Données définitives	Dijon	3		0					0	0	3	51	47															
+2020-07	Données définitives	Strasbourg	78		0				73		0	4	251	173															
+2020-07	Données définitives	France	34279	22499	2574	142	0	2432	4616	2096	1668	824	33840	-70	3141	2165	165	-143	-997	47	-48	-262							
+2020-07	Données définitives	Grenoble	66		3				63		0	0	279	212															
+2020-07	Données définitives	Grand Lyon	76		2				61		6	5	511	434															
+2020-07	Données définitives	Nancy	2		0				0			2	80	78															
+2020-07	Données définitives	Grand Paris	49		8					0	0	39	2529	2480															
+2020-07	Données définitives	Ile-de-France	259		107				2	13	18	116	4443	4184															
+2020-07	Données définitives	Occitanie	2874	1663	0				557	235	358	58	2827	59								-110							
+2020-07	Données définitives	Lille	5		0						0	5	490	485															
+2020-07	Données définitives	Metz	1		0				0		0	1	116	114															
+2020-07	Données définitives	Montpellier	5		0				0		2	2	206	201															
+2020-07	Données définitives	Rouen	54		33							20	206	151															
+2020-07	Données définitives	Nantes	5		0						4	0	251	246															
+2020-07	Données définitives	Nice	64		0				62		1	0	421	357															
+2020-07	Données définitives	Normandie	2978	2609	178				7	111	27	43	1814	-1164															
+2020-07	Données définitives	Hauts-de-France	3852	2344	739				0	658	22	86	3497	-354								0							
+2020-07	Données définitives	Orléans	15		0						0	15	96	80															
+2020-07	Données définitives	PACA	1731		655				762	7	252	54	3090	1364								-5							
+2020-07	Données définitives	Pays-de-la-Loire	616	0	367				0	117	91	40	1858	1241															
+2020-07	Données définitives	Rennes	8		0							8	166	157															
+2020-07	Données définitives	Saint Etienne	2		0						0	2	212	209															
+2020-07	Données définitives	Toulouse	6		0				2		3	0	260	254															
+2020-07	Données définitives	Toulon	13								2	10	-17	-31															
+2020-07	Données définitives	Tours	5		0					0	0	5	130	125															
+2020-08	Données définitives	Grand-Est	6304	4754	363				602	416	77	89	2950	-3353								0							
+2020-08	Données définitives	Nouvelle-Aquitaine	2636	1918	7				60	108	413	129	3059	422															
+2020-08	Données définitives	Aix Marseille	760		664				56	4	32	2	1242	481															
+2020-08	Données définitives	Auvergne-Rhône-Alpes	8034	5669	210				1840	75	162	75	4171	-3559								-280							
+2020-08	Données définitives	Bourgogne-Franche-Comté	192		17				18	88	45	22	1343	1155								-4							
+2020-08	Données définitives	Bordeaux	21		3						5	12	308	287															
+2020-08	Données définitives	Bretagne	240		4				47	117	30	40	1479	1245								-6							
+2020-08	Données définitives	Brest	2		0							2	65	63															
+2020-08	Données définitives	Clermont Ferrand	0		0						0		156	147															
+2020-08	Données définitives	Centre-Val de Loire	4290	4027	5				0	157	49	49	1181	-3109															
+2020-08	Données définitives	Dijon	3		0					0	0	3	49	45															
+2020-08	Données définitives	Strasbourg	68		0				64		0	3	251	183															
+2020-08	Données définitives	France	33337	22876	2463	58	0	2404	3685	2037	1475	799	32794	-78	3457	1907	-725	51	-603	359	-632	-414							
+2020-08	Données définitives	Grenoble	61		0				61		0	0	248	186															
+2020-08	Données définitives	Grand Lyon	69		4				55		5	4	481	411															
+2020-08	Données définitives	Nancy	2		0				0			2	88	86															
+2020-08	Données définitives	Grand Paris	25		1					0	0	23	2391	2365															
+2020-08	Données définitives	Ile-de-France	173		36				2	14	17	102	4341	4168															
+2020-08	Données définitives	Occitanie	2104	1045	0				445	229	321	62	2743	754								-119							
+2020-08	Données définitives	Lille	13		0						0	13	472	458															
+2020-08	Données définitives	Metz	1		0				0		0	1	112	111															
+2020-08	Données définitives	Montpellier	4		0				0		2	2	204	199															
+2020-08	Données définitives	Rouen	47		26							21	189	141															
+2020-08	Données définitives	Nantes	4		0						3	0	200	195															
+2020-08	Données définitives	Nice	39		0				35		1	2	415	375															
+2020-08	Données définitives	Normandie	3072	2711	177				7	111	23	42	1733	-1338															
+2020-08	Données définitives	Hauts-de-France	4324	2749	858				0	603	21	91	3240	-1083								0							
+2020-08	Données définitives	Orléans	14		0						0	14	104	89															
+2020-08	Données définitives	PACA	1500		664				536	6	235	57	3116	1620								-4							
+2020-08	Données définitives	Pays-de-la-Loire	398	0	171				0	107	77	42	1736	1337															
+2020-08	Données définitives	Rennes	10		0							10	142	131															
+2020-08	Données définitives	Saint Etienne	3		0						0	2	176	173															
+2020-08	Données définitives	Toulouse	4		0				1		2	0	254	249															
+2020-08	Données définitives	Toulon	12								2	10	-10	-23															
+2020-08	Données définitives	Tours	4		0					0	0	4	125	120															
+2020-09	Données définitives	Grand-Est	5457	3731	592				550	438	62	82	3185	-2272								0							
+2020-09	Données définitives	Nouvelle-Aquitaine	2913	2185	31				125	117	346	106	2989	76															
+2020-09	Données définitives	Aix Marseille	557		453				61	3	24	14	1215	658															
+2020-09	Données définitives	Auvergne-Rhône-Alpes	8563	6436	243				1588	78	134	81	4458	-3752								-325							
+2020-09	Données définitives	Bourgogne-Franche-Comté	256		40				46	108	39	21	1450	1196								-2							
+2020-09	Données définitives	Bordeaux	12		2						3	5	332	320															
+2020-09	Données définitives	Bretagne	219		8				46	102	24	38	1534	1320								-5							
+2020-09	Données définitives	Brest	2		0							2	70	68															
+2020-09	Données définitives	Clermont Ferrand	0		0						0		161	153															
+2020-09	Données définitives	Centre-Val de Loire	4389	4129	3				0	172	42	40	1199	-3189															
+2020-09	Données définitives	Dijon	2		0					0	0	2	51	48															
+2020-09	Données définitives	Strasbourg	62		0				59		0	3	253	190															
+2020-09	Données définitives	France	31963	21739	2781	271	0	2509	3356	2137	1204	745	31772	-67	2417	2835	-247	520	-582	352	374	-436							
+2020-09	Données définitives	Grenoble	78		13				64		0	0	263	184															
+2020-09	Données définitives	Grand Lyon	65		5				50		4	4	508	443															
+2020-09	Données définitives	Nancy	15		15				0			0	93	77															
+2020-09	Données définitives	Grand Paris	48		7					0	0	40	2480	2432															
+2020-09	Données définitives	Ile-de-France	240		88				2	15	14	119	4633	4392															
+2020-09	Données définitives	Occitanie	1478	515	0				434	221	258	49	2578	1194								-99							
+2020-09	Données définitives	Lille	14		0						0	14	492	477															
+2020-09	Données définitives	Metz	0		0				0		0	0	122	121															
+2020-09	Données définitives	Montpellier	4		0				0		1	2	186	181															
+2020-09	Données définitives	Rouen	48		28							19	212	163															
+2020-09	Données définitives	Nantes	3		0						2	0	259	256															
+2020-09	Données définitives	Nice	27		0				22		0	4	415	388															
+2020-09	Données définitives	Normandie	3164	2610	382				5	106	19	40	1848	-1315															
+2020-09	Données définitives	Hauts-de-France	3846	2132	956				0	656	17	83	3550	-296								0							
+2020-09	Données définitives	Orléans	7		0						0	7	102	95															
+2020-09	Données définitives	PACA	1168		453				480	5	180	48	2812	1647								-3							
+2020-09	Données définitives	Pays-de-la-Loire	265	0	49				0	113	63	38	1817	1551															
+2020-09	Données définitives	Rennes	9		0							9	151	141															
+2020-09	Données définitives	Saint Etienne	3		0						0	2	218	215															
+2020-09	Données définitives	Toulouse	3		0				1		2	0	265	261															
+2020-09	Données définitives	Toulon	8								1	6	-28	-37															
+2020-09	Données définitives	Tours	5		0					0	0	5	147	142															
+2020-10	Données définitives	Grand-Est	8993	6590	573				682	1027	32	87	3789	-5183								-20							
+2020-10	Données définitives	Nouvelle-Aquitaine	4603	3635	37				364	246	208	110	3571	-1032															
+2020-10	Données définitives	Aix Marseille	602		408				148	7	20	17	1309	707															
+2020-10	Données définitives	Auvergne-Rhône-Alpes	9725	7053	158				2211	145	76	78	5253	-4034								-395							
+2020-10	Données définitives	Bourgogne-Franche-Comté	355		42				49	219	19	24	1753	1403								-4							
+2020-10	Données définitives	Bordeaux	15		4						2	8	413	397															
+2020-10	Données définitives	Bretagne	330		5				48	224	15	36	1893	1567								-4							
+2020-10	Données définitives	Brest	2		0							2	89	86															
+2020-10	Données définitives	Clermont Ferrand	0		0						0		200	198															
+2020-10	Données définitives	Centre-Val de Loire	5192	4783	8				7	328	22	42	1499	-3692															
+2020-10	Données définitives	Dijon	2		0					0	0	2	59	57															
+2020-10	Données définitives	Strasbourg	74		0				73		0	1	290	216															
+2020-10	Données définitives	France	41539	28271	2335	100	0	2235	5127	4317	751	736	40894	-94	4282	1600	-996	119	-1356	-355	-93	-574							
+2020-10	Données définitives	Grenoble	72		7				65		0	0	297	225															
+2020-10	Données définitives	Grand Lyon	88		13				68		2	3	567	479															
+2020-10	Données définitives	Nancy	19		19				0			0	101	81															
+2020-10	Données définitives	Grand Paris	13		1					0	0	11	2914	2901															
+2020-10	Données définitives	Ile-de-France	120		2				4	30	8	74	5661	5541															
+2020-10	Données définitives	Occitanie	2302	885	1				849	345	165	56	2930	761								-140							
+2020-10	Données définitives	Lille	12		0						0	11	587	575															
+2020-10	Données définitives	Metz	1		0				0		0	1	123	122															
+2020-10	Données définitives	Montpellier	1		0				0		1	0	202	201															
+2020-10	Données définitives	Rouen	39		16							23	257	217															
+2020-10	Données définitives	Nantes	2		0						1	0	316	313															
+2020-10	Données définitives	Nice	12		0				9		0	2	443	430															
+2020-10	Données définitives	Normandie	3816	3342	197				8	210	11	45	2253	-1562															
+2020-10	Données définitives	Hauts-de-France	4175	1980	811				0	1288	9	85	4122	-52								0							
+2020-10	Données définitives	Orléans	9		0						0	8	118	109															
+2020-10	Données définitives	PACA	1430		409				804	10	143	62	3120	1699								-8							
+2020-10	Données définitives	Pays-de-la-Loire	461	0	147				0	239	38	35	2208	1747															
+2020-10	Données définitives	Rennes	7		0							7	187	179															
+2020-10	Données définitives	Saint Etienne	3		0						0	3	251	247															
+2020-10	Données définitives	Toulouse	6		0				4		1	0	303	297															
+2020-10	Données définitives	Toulon	6								1	4	-11	-17															
+2020-10	Données définitives	Tours	4		0					0	0	4	160	155															
+2020-11	Données définitives	Grand-Est	9446	7396	699				588	647	29	86	3942	-5431								-71							
+2020-11	Données définitives	Nouvelle-Aquitaine	4468	3535	126				299	199	196	109	3680	-787															
+2020-11	Données définitives	Aix Marseille	1062		884				147	4	13	12	1375	312															
+2020-11	Données définitives	Auvergne-Rhône-Alpes	9282	6756	325				1922	116	70	91	5426	-3486								-324							
+2020-11	Données définitives	Bourgogne-Franche-Comté	357		98				56	149	20	33	1770	1417								-4							
+2020-11	Données définitives	Bordeaux	32		20						2	10	447	414															
+2020-11	Données définitives	Bretagne	438		146				52	192	12	34	1962	1529								-6							
+2020-11	Données définitives	Brest	29		27							2	89	60															
+2020-11	Données définitives	Clermont Ferrand	9		9						0		192	173															
+2020-11	Données définitives	Centre-Val de Loire	6446	6117	46				5	216	21	38	1610	-4836															
+2020-11	Données définitives	Dijon	19		17					0	0	2	59	39															
+2020-11	Données définitives	Strasbourg	56		0				55		0	0	290	234															
+2020-11	Données définitives	France	44943	31565	4279	117	0	4162	4516	3166	647	765	44098	-118	5614	1211	-1098	-162	-1574	-784	-782	-543							
+2020-11	Données définitives	Grenoble	74		14				60		0	0	312	237															
+2020-11	Données définitives	Grand Lyon	99		44				50		1	2	614	514															
+2020-11	Données définitives	Nancy	28		28				0			0	109	80															
+2020-11	Données définitives	Grand Paris	169		162					0	0	6	3021	2851															
+2020-11	Données définitives	Ile-de-France	376		263				5	19	6	81	5928	5551															
+2020-11	Données définitives	Occitanie	2053	710	45				813	288	136	59	3031	1099								-128							
+2020-11	Données définitives	Lille	45		36						0	8	607	561															
+2020-11	Données définitives	Metz	1		0				0		0	1	130	129															
+2020-11	Données définitives	Montpellier	9		7				0		0	0	221	212															
+2020-11	Données définitives	Rouen	73		51							21	272	199															
+2020-11	Données définitives	Nantes	34		31						1	0	289	255															
+2020-11	Données définitives	Nice	13		0				10		0	1	488	475															
+2020-11	Données définitives	Normandie	4858	4316	302				9	175	8	45	2388	-2470															
+2020-11	Données définitives	Hauts-de-France	4842	2732	1050				0	958	7	91	4255	-586								0							
+2020-11	Données définitives	Orléans	9		2						0	7	136	126															
+2020-11	Données définitives	PACA	1786		912				695	12	103	61	3278	1500								-8							
+2020-11	Données définitives	Pays-de-la-Loire	590	0	323				1	191	33	39	2312	1722															
+2020-11	Données définitives	Rennes	30		24							6	205	174															
+2020-11	Données définitives	Saint Etienne	20		17						0	2	243	223															
+2020-11	Données définitives	Toulouse	5		1				3		1	0	301	296															
+2020-11	Données définitives	Toulon	7								0	6	22	13															
+2020-11	Données définitives	Tours	14		10					0	0	3	167	152															
+2020-12	Données définitives	Grand-Est	9229	6833	751				626	918	12	87	4315	-4841								-73							
+2020-12	Données définitives	Nouvelle-Aquitaine	5594	4368	131				557	322	92	123	4610	-983															
+2020-12	Données définitives	Aix Marseille	968		816				114	7	8	21	1688	720															
+2020-12	Données définitives	Auvergne-Rhône-Alpes	10702	7666	302				2447	161	34	89	6391	-3885								-399							
+2020-12	Données définitives	Bourgogne-Franche-Comté	446		101				85	219	9	29	2090	1649								-4							
+2020-12	Données définitives	Bordeaux	33		22						1	10	542	509															
+2020-12	Données définitives	Bretagne	555		180				59	270	8	36	2409	1861								-7							
+2020-12	Données définitives	Brest	39		35							3	113	74															
+2020-12	Données définitives	Clermont Ferrand	9		9						0		215	196															
+2020-12	Données définitives	Centre-Val de Loire	7230	6731	54				22	366	10	45	1928	-5302															
+2020-12	Données définitives	Dijon	20		18					0	0	2	70	50															
+2020-12	Données définitives	Strasbourg	61		0				58		0	2	329	268															
+2020-12	Données définitives	France	50388	34432	4684	313	0	4371	5710	4409	343	807	49840	-107	4653	2212	-1023	509	-1215	-761	51	-626							
+2020-12	Données définitives	Grenoble	65		16				48		0	0	516	451															
+2020-12	Données définitives	Grand Lyon	138		48				87		0	2	641	502															
+2020-12	Données définitives	Nancy	56		53				0			1	131	75															
+2020-12	Données définitives	Grand Paris	273		265					0	0	7	3616	3343															
+2020-12	Données définitives	Ile-de-France	542		411				4	32	3	90	7079	6536															
+2020-12	Données définitives	Occitanie	3112	1485	64				1073	348	77	62	4056	1068								-132							
+2020-12	Données définitives	Lille	58		46						0	11	694	636															
+2020-12	Données définitives	Metz	1		0				0		0	1	134	133															
+2020-12	Données définitives	Montpellier	10		8				0		0	0	295	284															
+2020-12	Données définitives	Rouen	73		54							19	309	235															
+2020-12	Données définitives	Nantes	42		41						0	0	339	296															
+2020-12	Données définitives	Nice	23		0				20		0	2	555	531															
+2020-12	Données définitives	Normandie	5250	4578	376				11	235	5	42	2813	-2436															
+2020-12	Données définitives	Hauts-de-France	5140	2767	1034				1	1231	5	100	4720	-420								0							
+2020-12	Données définitives	Orléans	21		10						0	11	160	139															
+2020-12	Données définitives	PACA	1751		849				750	11	64	75	4159	2417								-9							
+2020-12	Données définitives	Pays-de-la-Loire	864	0	517				3	290	19	33	2757	1892															
+2020-12	Données définitives	Rennes	34		28							5	257	223															
+2020-12	Données définitives	Saint Etienne	22		19						0	2	241	219															
+2020-12	Données définitives	Toulouse	18		13				3		1	0	400	382															
+2020-12	Données définitives	Toulon	9								0	8	-7	-18															
+2020-12	Données définitives	Tours	9		5					0	0	4	203	194															
+2021-01	Données consolidées	Grand-Est	9220	6633	982	202	2	777	654	841	13	95	4727	4417															
+2021-01	Données consolidées	Nouvelle-Aquitaine	6207	4834	154		0	154	664	305	120	126	5054	1153															
+2021-01	Données consolidées	Auvergne-Rhône-Alpes	11604	7838	353	0	9	343	3162	119	37	93	7302	4004															
+2021-01	Données consolidées	Bourgogne-Franche-Comté	529		104		0	104	163	219	8	32	2332	-1803															
+2021-01	Données consolidées	Bretagne	496		194		10	184	61	195	7	36	2662	-2172															
+2021-01	Données consolidées	Centre-Val de Loire	7927	7436	88		0	88	29	315	12	45	2207	5720															
+2021-01	Données consolidées	France	55421	37176	5704	795	169	4739	7320	3944	434	839	52983	1946	6757	4962	1364	512	966	1183	-2233								
+2021-01	Données consolidées	Ile-de-France	537		407	0	10	396	2	26	3	98	7797	-7260															
+2021-01	Données consolidées	Occitanie	4099	1882	65		0	65	1558	428	105	60	4632	-638															
+2021-01	Données consolidées	Normandie	5949	5167	529	243	29	257	10	188	5	48	3070	2879															
+2021-01	Données consolidées	Hauts-de-France	5639	3383	1121	0	5	1115	1	1037	3	91	5184	455															
+2021-01	Données consolidées	PACA	2026		926	-1	19	908	908	27	87	75	4595	-2573															
+2021-01	Données consolidées	Pays-de-la-Loire	999		705	351	9	343	3	236	18	34	3150	-2151															
+2021-02	Données consolidées	Grand-Est	7156	4704	634	61	5	568	749	944	32	89	4039	3028															
+2021-02	Données consolidées	Nouvelle-Aquitaine	4679	3352	141		0	141	614	288	166	114	3907	771															
+2021-02	Données consolidées	Auvergne-Rhône-Alpes	9772	6338	272	0	9	262	2868	135	69	88	5778	3684															
+2021-02	Données consolidées	Bourgogne-Franche-Comté	506		109		0	108	133	214	17	32	1927	-1422															
+2021-02	Données consolidées	Bretagne	499		180		10	169	55	218	11	33	2273	-1780															
+2021-02	Données consolidées	Centre-Val de Loire	7079	6620	64		0	64	29	302	23	38	1882	5197															
+2021-02	Données consolidées	France	46951	30337	4071	270	139	3660	6901	4229	632	779	43024	3393	7128	3900	1374	-1005	1514	1359	-15								
+2021-02	Données consolidées	Ile-de-France	442		312	0	17	295	0	28	6	94	6404	-5961															
+2021-02	Données consolidées	Occitanie	3807	1683	60		0	60	1475	396	135	56	3307	378															
+2021-02	Données consolidées	Normandie	5792	5124	385	135	26	223	7	215	9	51	2636	3156															
+2021-02	Données consolidées	Hauts-de-France	4681	2513	868	0	5	863	1	1209	9	78	4522	158															
+2021-02	Données consolidées	PACA	1717		659	-1	17	642	865	18	104	69	3539	-1828															
+2021-02	Données consolidées	Pays-de-la-Loire	663		341	75	7	258	3	255	30	31	2600	-1937															
+2021-03	Données consolidées	Grand-Est	6400	4255	480	29	4	445	714	747	99	103	4231	2083															
+2021-03	Données consolidées	Nouvelle-Aquitaine	4572	3325	131		0	130	425	243	341	106	4019	553															
+2021-03	Données consolidées	Auvergne-Rhône-Alpes	10410	7166	299	0	10	288	2601	116	127	97	6079	4055															
+2021-03	Données consolidées	Bourgogne-Franche-Comté	413		95		0	94	87	168	32	30	1945	-1534															
+2021-03	Données consolidées	Bretagne	497		185		4	180	56	193	22	38	2233	-1741															
+2021-03	Données consolidées	Centre-Val de Loire	6795	6347	63		0	62	13	279	49	43	1831	4964															
+2021-03	Données consolidées	France	47598	31695	4153	225	138	3788	5946	3695	1258	849	43913	3201	7306	4239	1491	190	1376	1491	-1482								
+2021-03	Données consolidées	Ile-de-France	430		287	0	5	281	6	24	12	100	6468	-6037															
+2021-03	Données consolidées	Occitanie	3918	1853	58		0	58	1285	401	256	64	3429	379															
+2021-03	Données consolidées	Normandie	6466	5841	352	96	25	230	11	182	18	60	2643	3823															
+2021-03	Données consolidées	Hauts-de-France	5149	2905	1024	0	5	1018	1	1106	18	92	4600	548															
+2021-03	Données consolidées	PACA	1680		720	-1	16	705	672	19	191	76	3637	-1962															
+2021-03	Données consolidées	Pays-de-la-Loire	715		399	100	8	290	3	212	64	35	2578	-1863															
+2021-04	Données consolidées	Grand-Est	5964	3929	690	21	7	662	548	611	87	96	3670	2252															
+2021-04	Données consolidées	Nouvelle-Aquitaine	4058	3016	14		0	13	227	239	450	110	3351	707															
+2021-04	Données consolidées	Auvergne-Rhône-Alpes	7948	5635	206	0	9	196	1767	99	164	74	5188	2488															
+2021-04	Données consolidées	Bourgogne-Franche-Comté	330		41		0	41	41	167	47	33	1712	-1387															
+2021-04	Données consolidées	Bretagne	291		13		9	3	50	158	33	35	1857	-1571															
+2021-04	Données consolidées	Centre-Val de Loire	6371	6012	8		0	8	4	236	66	42	1513	4858															
+2021-04	Données consolidées	France	39562	27209	3055	187	137	2730	4034	2936	1543	782	37747	1392	6227	4969	1105	437	882	859	-2027								
+2021-04	Données consolidées	Ile-de-France	181		29	0	15	14	7	21	16	106	5562	-5380															
+2021-04	Données consolidées	Occitanie	3282	1815	0		0	0	799	292	313	60	2921	270															
+2021-04	Données consolidées	Normandie	4619	4260	148	-2	15	136	9	125	26	48	2269	2350															
+2021-04	Données consolidées	Hauts-de-France	4298	2538	872	0	0	871	1	776	28	80	4158	139															
+2021-04	Données consolidées	PACA	1376		582	-1	17	566	527	15	196	54	3226	-1857															
+2021-04	Données consolidées	Pays-de-la-Loire	710		389	169	5	214	2	191	89	38	2130	-1419															
+2021-05	Données consolidées	Grand-Est	6616	4472	183	21	5	156	843	918	95	102	3522	3093															
+2021-05	Données consolidées	Nouvelle-Aquitaine	4070	2906	15		0	15	306	285	427	129	3175	895															
+2021-05	Données consolidées	Auvergne-Rhône-Alpes	9792	6556	36	2	9	25	2849	103	162	82	4916	4556															
+2021-05	Données consolidées	Bourgogne-Franche-Comté	431		28		0	27	100	226	44	33	1631	-1208															
+2021-05	Données consolidées	Bretagne	342		5		4	1	49	217	31	38	1716	-1379															
+2021-05	Données consolidées	Centre-Val de Loire	4961	4513	3		0	2	8	321	67	48	1370	3590															
+2021-05	Données consolidées	France	41433	27574	1232	18	107	1106	6270	3946	1578	830	35007	5939			1734	1052	1686	1045	264								
+2021-05	Données consolidées	Ile-de-France	156		14	0	10	3	7	29	16	88	5092	-4935															
+2021-05	Données consolidées	Occitanie	2532	966	0		0	0	905	282	325	52	2631	-241															
+2021-05	Données consolidées	Normandie	5686	5240	143	-1	21	123	9	203	27	63	2053	3633															
+2021-05	Données consolidées	Hauts-de-France	4629	2918	496	0	0	496	1	1091	31	89	3871	758															
+2021-05	Données consolidées	PACA	1617		187	-1	18	170	1116	18	233	60	2948	-1339															
+2021-05	Données consolidées	Pays-de-la-Loire	461		80	-2	0	82	2	248	89	40	1919	-1457															
+2021-06	Données consolidées	Grand-Est	6468	4645	490	9	0	480	877	250	108	96	3212	3254															
+2021-06	Données consolidées	Nouvelle-Aquitaine	3207	2321	18		0	18	230	83	436	118	2810	397															
+2021-06	Données consolidées	Auvergne-Rhône-Alpes	9929	6448	123	0	8	114	3017	87	174	76	4569	5136															
+2021-06	Données consolidées	Bourgogne-Franche-Comté	228		19		0	19	55	73	48	31	1488	-1259															
+2021-06	Données consolidées	Bretagne	178		6		5	0	44	59	30	38	1506	-1334															
+2021-06	Données consolidées	Centre-Val de Loire	5047	4839	3		0	3	6	82	69	45	1162	3884															
+2021-06	Données consolidées	France	39246	27716	1559	29	132	1397	6217	1341	1635	776	32032	6840	8768	2075	1745	1371	1610	1141	824								
+2021-06	Données consolidées	Ile-de-France	139		12	0	9	3	6	7	17	95	4537	-4397															
+2021-06	Données consolidées	Occitanie	2228	897	0		0	0	724	223	342	39	2567	-474															
+2021-06	Données consolidées	Normandie	6498	6215	142	0	19	123	10	47	25	58	1877	4620															
+2021-06	Données consolidées	Hauts-de-France	3271	2347	465	0	0	465	1	346	32	77	3456	-185															
+2021-06	Données consolidées	PACA	1697		173	-1	16	158	1217	11	238	57	2940	-1249															
+2021-06	Données consolidées	Pays-de-la-Loire	225		32	21	0	10	1	67	83	41	1737	-1511															
+2021-07	Données consolidées	Grand-Est	7513	5484	414	11	0	401	916	488	105	103	3200	4310															
+2021-07	Données consolidées	Nouvelle-Aquitaine	4020	2964	17		0	17	283	185	436	132	3077	943															
+2021-07	Données consolidées	Auvergne-Rhône-Alpes	9822	6483	66	0	7	58	2930	77	174	90	4670	4971															
+2021-07	Données consolidées	Bourgogne-Franche-Comté	341		22		0	21	110	124	48	36	1484	-1143															
+2021-07	Données consolidées	Bretagne	242		2		1	1	46	118	34	39	1548	-1313															
+2021-07	Données consolidées	Centre-Val de Loire	5081	4756	10		0	9	6	190	68	49	1229	3851															
+2021-07	Données consolidées	France	40555	28449	1605	54	159	1392	5626	2295	1686	892	32959	7268			1907	1316	2090	1353	503								
+2021-07	Données consolidées	Ile-de-France	157		0	0	0	0	6	17	16	116	4394	-4237															
+2021-07	Données consolidées	Occitanie	2126	924	0		0	0	556	225	361	58	2766	-773															
+2021-07	Données consolidées	Normandie	5726	5398	146	0	24	122	9	93	26	52	1830	3896															
+2021-07	Données consolidées	Hauts-de-France	3750	2436	588	0	0	588	1	604	35	84	3518	232															
+2021-07	Données consolidées	PACA	1288		183	-1	14	170	749	13	257	84	3222	-1939															
+2021-07	Données consolidées	Pays-de-la-Loire	339		48	45	4	-1	1	153	91	43	1809	-1469															
+2021-08	Données consolidées	Grand-Est	7128	5413	168	15	0	152	891	444	102	107	2954	4165															
+2021-08	Données consolidées	Nouvelle-Aquitaine	3978	3091	21	0	0	21	112	174	447	130	3034	943															
+2021-08	Données consolidées	Auvergne-Rhône-Alpes	9185	6616	12	0	4	7	2210	77	181	86	4276	4636															
+2021-08	Données consolidées	Bourgogne-Franche-Comté	260		18		0	18	61	104	48	27	1351	-1094															
+2021-08	Données consolidées	Bretagne	242		5		3	1	45	116	33	42	1494	-1258															
+2021-08	Données consolidées	Centre-Val de Loire	5744	5444	6		0	6	2	179	69	41	1260	4483															
+2021-08	Données consolidées	France	39162	29010	957	70	166	720	4408	2213	1713	857	31184	7600	0	0	1878	1837	2090	1393	787								
+2021-08	Données consolidées	Ile-de-France	145		3	0	3	0	6	19	20	96	4019	-3874															
+2021-08	Données consolidées	Occitanie	2017	898	0		0	0	488	186	377	65	2718	-781															
+2021-08	Données consolidées	Normandie	5505	5170	139	0	21	119	8	110	24	51	1743	3762															
+2021-08	Données consolidées	Hauts-de-France	3505	2375	362	0	0	361	1	649	33	83	3287	218															
+2021-08	Données consolidées	PACA	972		49	0	16	33	571	13	258	79	3124	-2157															
+2021-08	Données consolidées	Pays-de-la-Loire	322		55	56	0	-1	0	136	87	43	1710	-1387															
+2021-09	Données consolidées	Grand-Est	6374	4732	478	17	0	461	644	307	106	104	3222	3117															
+2021-09	Données consolidées	Nouvelle-Aquitaine	3819	2983	25		0	25	203	119	365	122	2971	847															
+2021-09	Données consolidées	Auvergne-Rhône-Alpes	8382	6452	99	0	8	90	1537	61	153	77	4559	3549															
+2021-09	Données consolidées	Bourgogne-Franche-Comté	248		37		0	37	47	86	49	27	1495	-1254															
+2021-09	Données consolidées	Bretagne	219		5		1	4	44	101	30	37	1521	-1307															
+2021-09	Données consolidées	Centre-Val de Loire	6184	5942	1		0	0	2	132	64	40	1218	4965															
+2021-09	Données consolidées	France	38505	29001	2197	498	146	1552	3417	1651	1421	815	32350	5764	2118	6126	1114	1433	2126	1468	-16								
+2021-09	Données consolidées	Ile-de-France	167		1	0	1	0	4	14	18	129	4550	-4382															
+2021-09	Données consolidées	Occitanie	1612	684	0		0	0	422	172	279	52	2550	-1004															
+2021-09	Données consolidées	Normandie	6663	6373	130	0	25	105	7	82	22	46	1840	4823															
+2021-09	Données consolidées	Hauts-de-France	2958	1830	568	0	0	568	1	448	34	74	3577	-619															
+2021-09	Données consolidées	PACA	939		180	0	12	168	493	11	191	60	2895	-1959															
+2021-09	Données consolidées	Pays-de-la-Loire	807		572	481	0	90	0	113	80	40	1777	-969															
+2021-10	Données consolidées	Grand-Est	7008	5225	635	47	2	585	487	516	41	101	3652	3263															
+2021-10	Données consolidées	Nouvelle-Aquitaine	3883	3084	113		0	112	167	221	189	107	3211	672															
+2021-10	Données consolidées	Auvergne-Rhône-Alpes	9947	8070	210	0	8	201	1408	111	63	83	5288	4290															
+2021-10	Données consolidées	Bourgogne-Franche-Comté	337		93		0	93	50	137	19	36	1720	-1390															
+2021-10	Données consolidées	Bretagne	372		139		8	131	43	140	13	34	1788	-1420															
+2021-10	Données consolidées	Centre-Val de Loire	5657	5314	38		0	37	3	231	28	41	1416	4241															
+2021-10	Données consolidées	France	41695	30658	3621	600	180	2840	3092	2807	703	812	36762	4291	2745	4155	464	861	2141	1873	-1184								
+2021-10	Données consolidées	Ile-de-France	374		225	0	15	210	5	23	6	113	5646	-5272															
+2021-10	Données consolidées	Occitanie	1962	878	52		0	52	491	334	140	64	2756	-956															
+2021-10	Données consolidées	Normandie	6549	6130	209	0	30	180	6	136	9	56	2158	4390															
+2021-10	Données consolidées	Hauts-de-France	3505	1954	681	0	5	675	1	775	13	79	3915	-410															
+2021-10	Données consolidées	PACA	973		362	0	17	345	419	17	120	53	2988	-2022															
+2021-10	Données consolidées	Pays-de-la-Loire	1011		772	553	2	216	0	159	38	41	2057	-1045															
+2021-11	Données consolidées	Grand-Est	8808	6358	1391	240	2	1148	427	498	30	101	4254	4444															
+2021-11	Données consolidées	Nouvelle-Aquitaine	3498	2624	150		0	149	239	199	165	119	4170	-671															
+2021-11	Données consolidées	Auvergne-Rhône-Alpes	10221	7873	294	0	10	283	1799	104	61	89	6159	3718															
+2021-11	Données consolidées	Bourgogne-Franche-Comté	342		102		0	102	54	133	16	35	2022	-1685															
+2021-11	Données consolidées	Bretagne	422		182		38	143	51	140	13	34	2188	-1773															
+2021-11	Données consolidées	Centre-Val de Loire	5772	5422	59		0	59	5	221	26	36	1861	3910															
+2021-11	Données consolidées	France	44284	30370	5726	566	192	4966	4026	2699	635	825	44458	-812	6062	-1111	-160	-841	1045	1513	-2668								
+2021-11	Données consolidées	Ile-de-France	555		415	0	33	381	5	23	6	105	6737	-6181															
+2021-11	Données consolidées	Occitanie	2142	897	59		0	59	638	347	138	60	3581	-1608															
+2021-11	Données consolidées	Normandie	5376	4929	239	-1	31	208	5	134	9	58	2528	2848															
+2021-11	Données consolidées	Hauts-de-France	4319	2265	1239	0	5	1233	1	720	11	80	4593	-273															
+2021-11	Données consolidées	PACA	1745		847	-1	20	828	712	15	108	61	3561	-1821															
+2021-11	Données consolidées	Pays-de-la-Loire	940		700	328	3	369	0	159	37	40	2607	-1667															
+2022-03	Données consolidées	Grand-Est	6789	3861	1443				495	733	141	113	4213	-2473								-102							
+2022-03	Données consolidées	Nouvelle-Aquitaine	3381	2077	116				435	275	340	135	3870	489															
+2022-03	Données consolidées	Aix Marseille	1063		967				34	3	39	18	1559	496															
+2022-03	Données consolidées	Auvergne-Rhône-Alpes	9976	7403	261				1933	125	154	97	6015	-3643								-317							
+2022-03	Données consolidées	Bourgogne-Franche-Comté	410		80				70	166	54	38	1849	1445								-5							
+2022-03	Données consolidées	Bordeaux	41		16						10	13	445	403															
+2022-03	Données consolidées	Bretagne	634		316				52	196	30	38	2142	1513								-5							
+2022-03	Données consolidées	Brest	29		25							4	104	74															
+2022-03	Données consolidées	Clermont Ferrand	7		6						1		210	192															
+2022-03	Données consolidées	Centre-Val de Loire	5811	5396	52				10	240	68	44	1656	-4155															
+2022-03	Données consolidées	Dijon	14		9					0	2	2	68	54															
+2022-03	Données consolidées	Strasbourg	42		0				40		0	2	314	271															
+2022-03	Données consolidées	France	42708	26851	5504	435	123	4946	4562	3490	1370	928	43060	1084	2773	3833	-117	343	-798	-256	1889	-603							
+2022-03	Données consolidées	Grenoble	80		15				62		0	1	301	221															
+2022-03	Données consolidées	Grand Lyon	88		15				63		5	4	627	538															
+2022-03	Données consolidées	Nancy	33		30				0			2	122	88															
+2022-03	Données consolidées	Grand Paris	239		208					0	2	28	3018	2779															
+2022-03	Données consolidées	Ile-de-France	452		288				6	29	15	111	6364	5912															
+2022-03	Données consolidées	Occitanie	2856	943	41				1152	396	252	70	3590	903								-170							
+2022-03	Données consolidées	Lille	33		22						1	9	628	594															
+2022-03	Données consolidées	Metz	0		0				0		0	0	129	128															
+2022-03	Données consolidées	Montpellier	12		6				0		3	2	267	251															
+2022-03	Données consolidées	Rouen	47		25							21	316	268															
+2022-03	Données consolidées	Nantes	33		29						3	0	305	272															
+2022-03	Données consolidées	Nice	13		0				10		1	0	399	386															
+2022-03	Données consolidées	Normandie	5396	4907	221				12	164	21	68	2524	-2872															
+2022-03	Données consolidées	Hauts-de-France	4721	2261	1401				1	921	40	94	4667	-54								0							
+2022-03	Données consolidées	Orléans	20		9						0	10	154	134															
+2022-03	Données consolidées	PACA	1665		998				387	15	181	82	3789	2126								-3							
+2022-03	Données consolidées	Pays-de-la-Loire	620	0	277				3	224	71	43	2376	1755															
+2022-03	Données consolidées	Rennes	23		17							6	223	195															
+2022-03	Données consolidées	Saint Etienne	14		9						1	2	275	261															
+2022-03	Données consolidées	Toulouse	19		7				4		5	1	306	287															
+2022-03	Données consolidées	Toulon	11								2	8	-63	-75															
+2022-03	Données consolidées	Tours	12		6					0	0	4	177	165															
